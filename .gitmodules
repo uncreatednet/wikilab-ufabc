@@ -1,0 +1,6 @@
+[submodule "exemplos & referências/Microhouse"]
+	path = exemplos & referências/Microhouse
+	url = https://github.com/wikihouseproject/Microhouse.git
+[submodule "exemplos & referências/Wren"]
+	path = exemplos & referências/Wren
+	url = https://github.com/wikihouseproject/Wren.git
