@@ -9,7 +9,7 @@ Ver da experiência desses caras e se/como pode rolar uma parceria
 * Contatar Alastair Parvin - o fundador do wikihouse - http://wikihouse.cc/ - contatado 18.10.2016
 * Contatar WikiHouseRio - http://wikihouserio.cc/ - contatado 18.10.2016
 * Contatar Anderson França - trabalhou com o wikihouse Rio - http://www.andersonfranca.com/
-* Ver contato do Alex na  PUC Rio que trabalhou no wikihouse
+* Ver contato do Alex na UFRJ que trabalhou no wikihouse
 
 ### Construção
 
