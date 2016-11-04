@@ -44,6 +44,7 @@ Ver da experiência desses caras e se/como pode rolar uma parceria
 * 1 painel = +/- R$ 115 -> 175 painéis = R$ 20000
 * Alternativa: 1 painel de OSB = */- R$ 100 - > 175 painéis = R$ 17500
 * Precisa do custo de corte
+* Custo da impregnação / proteção contra fogo
 * Custo de fundação
 * Custo do bloco de alvenaria completo (com instalações sanitárias)
 * Custo do revestimento exterior = +/- 84m²
