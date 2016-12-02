@@ -22,7 +22,7 @@ Ver da experiência desses caras e se/como pode rolar uma parceria
 
 ### Projeto
 
-* Levantar um projeto básico do que precisa (feito - ver o que dá)
+* ~~Levantar um projeto básico do que precisa~~ feito - ver o que dá
 * Conversar BEM com o pessoal sobre o aspecto experimental
 * Definir estratégia de manutenção / plano "Marte"
 * Ver esquema de segurança
@@ -57,11 +57,11 @@ Ver da experiência desses caras e se/como pode rolar uma parceria
 * Custo transporte
 * Custo projeto? Contribuição wikihouse
 
-### FreeCAD
+### FreeCAD & arquivos digitais
 
-* Ver melhor formato de transferência
+* ~~Ver melhor formato de transferência~~ Precisa de um processo complexo para passar do formato original (sketchup) para FreeCAD. 1) No sketchup, isolar um módulo 2) exportar para collada 3) importar no Blender 4) separar as diferentes camadas de elementes em layers 5) identificar e linkar os idênticos 6) deixar somente uma face por peça 7) limpar a triangulação 8) exportar para obj 8) importar para FreeCAD 9) usar macro em anexo para extrair wires 10) criar clones para as peças duplicadas
 * Tornar cada peça do modelo sketchup em um painel
-* Identificar painéis idênticos
+* ~~Identificar painéis idênticos~~ Isto tem que ser feito na hora de importar o arquivo para o Blender. Deixar os dois (blender e sketchup) abertos ao lado, e ir identificando cada peça. Esta etapa é também importante para ter um bom entendimento da estrutura.
 * Extrair "marca"?
 * Gerar perfis no plano XY. Cada perfil é "filho" do painel? Ou contrário?
 * Perfil podia ser Path (verificar se interessante)
@@ -75,6 +75,7 @@ Ver da experiência desses caras e se/como pode rolar uma parceria
 * http://www.archdaily.com.br/br/773676/casa-revista-a-primeira-casa-fabricada-digitalmente-no-brasil
 * https://www.newcivilengineer.com/technical-excellence/structures-home-delivery/8670782.article
 * http://buildandrenovate.co.nz/wikihouse/
+* http://www.plataformaarquitectura.cl/cl/800684/wikihouse-presenta-la-primera-casa-de-codigo-abierto-de-dos-pisos-en-el-london-design-festival
 
 #### Materiais
 
