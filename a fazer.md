@@ -2,6 +2,8 @@
 
 Um laboratório experimental baseado no [wikihouse](http://wikihouse.cc/)
 
+![](ideia%20b%C3%A1sica.jpg)
+
 ### Contatos
 
 Ver da experiência desses caras e se/como pode rolar uma parceria
@@ -9,12 +11,15 @@ Ver da experiência desses caras e se/como pode rolar uma parceria
 * Contatar Alastair Parvin - o fundador do wikihouse - http://wikihouse.cc/ - contatado 18.10.2016
 * Contatar WikiHouseRio - http://wikihouserio.cc/ - contatado 18.10.2016
 * Contatar Anderson França - trabalhou com o wikihouse Rio - http://www.andersonfranca.com/
-* Ver contato do Alex na UFRJ que trabalhou no wikihouse
+* Ver contato do Alex Garcia na UFRJ que trabalhou no wikihouse
+* Outros contatos na wikihouse foundation?
+* Contatos com fab-labs?
 
 ### Construção
 
 * Ver empresas ou lugares que podem cortar os painéis de madeira
-* Ver possível pareceria com FabLabs?
+* Ver possível pareceria com FabLabs? 
+* Os [fab-labs livres de SP](http://fablablivresp.art.br/) que são indicados como "grande porte" tem uma máquina de tamanho suficiente para cortar os painéis de 1.20x2.40m do wikihouse
 * Quem vai construir? Estudantes, empreiteiro, PPP? 
 * Pode ser feito em compensado tanto quanto em OSB. OSB é melhor: mais sustentável, um pouco mais barato, e mais fácil de proteger contra fogo
 * Diferentes estratégias de proteção contra fogo possíveis: impregnação com produto, revestimento com placas, etc
