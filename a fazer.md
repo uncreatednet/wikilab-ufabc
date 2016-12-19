@@ -85,3 +85,12 @@ Ajustes a fazer no FreeCAD para poder trabalhar com wikihouse. Tudo feito já.
 #### Materiais
 
 * http://www.smartply.com/products/fr-build-osb3
+
+### Próximos passos
+
+* ~~Ver terreno com Reitor~~
+* Achar terreno
+* Montar um projeto básico (3D, planta, corte)
+* Verificar preços de corte
+* Verificar preços da impregnação contra fogo
+* Montar orçamento básico do resto (alvenaria, etc)
