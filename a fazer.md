@@ -98,7 +98,7 @@ Ajustes a fazer no FreeCAD para poder trabalhar com wikihouse. Tudo feito já.
 
 ### Mobiliário necessário
 
-**makerspace
+#### makerspace
 
 * 1 mesa de montagem (para trabalho) 8 lugares
 * 1 mesa ou bancada para 2 impressoras lasers (+/- 3 metros)
@@ -107,7 +107,7 @@ Ajustes a fazer no FreeCAD para poder trabalhar com wikihouse. Tudo feito já.
 * 1 espaço para almofadas e conversas
 * se possível colocar estantes em uma das paredes
 
-**Lablivre
+#### Lablivre
 
 * Uma mesa para 8 computadores
 * 2 armários
