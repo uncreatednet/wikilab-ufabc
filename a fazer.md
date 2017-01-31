@@ -90,7 +90,7 @@ Ajustes a fazer no FreeCAD para poder trabalhar com wikihouse. Tudo feito já.
 ### Próximos passos
 
 * ~~Ver terreno com Reitor~~
-* Achar terreno
+* ~~Achar terreno~~
 * Montar um projeto básico (3D, planta, corte)
 * Verificar preços de corte
 * Verificar preços da impregnação contra fogo
