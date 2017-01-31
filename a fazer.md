@@ -52,15 +52,16 @@ Ver da experiência desses caras e se/como pode rolar uma parceria
 * Custo da impregnação / proteção contra fogo
 * Custo de fundação
 * Custo do bloco de alvenaria completo (com instalações sanitárias)
-* Custo do revestimento exterior = +/- 84m²
+* Custo do revestimento exterior = +/- 84m² (placas de polipropileno = R$ 41/m² x 84 = R$ 3500
 * Custo conexões esgoto/água fria/eletricidade
 * Pintura
-* Custo portas e janelas
+* Custo portas e janelas -ver cálculo padrão abaixo
 * Custo instalações elétricas
 * Mobiliário?
 * Custo maquete
 * Custo transporte
 * Custo projeto? Contribuição wikihouse
+* Esquadrias: 28m² *x R$ 300/m² = R$ 8500
 
 ### FreeCAD & arquivos digitais
 
