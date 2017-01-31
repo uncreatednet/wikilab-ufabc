@@ -95,3 +95,24 @@ Ajustes a fazer no FreeCAD para poder trabalhar com wikihouse. Tudo feito já.
 * Verificar preços de corte
 * Verificar preços da impregnação contra fogo
 * Montar orçamento básico do resto (alvenaria, etc)
+
+### Mobiliário necessário
+
+**makerspace
+
+* 1 mesa de montagem (para trabalho) 8 lugares
+* 1 mesa ou bancada para 2 impressoras lasers (+/- 3 metros)
+* 2 armários fechados
+* 2 mesas para computadores (3 em cada 1)
+* 1 espaço para almofadas e conversas
+* se possível colocar estantes em uma das paredes
+
+**Lablivre
+
+* Uma mesa para 8 computadores
+* 2 armários
+* 2 hacks de servidores
+* 1 mesa de reuniões 
+* 1 espaço para projeção
+* 1 mesa/bancada para impressoras
+* estantes de livros (quto couber)
