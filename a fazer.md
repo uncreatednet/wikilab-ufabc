@@ -1,9 +1,5 @@
 # wikilab
 
-Um laboratório experimental baseado no [wikihouse](http://wikihouse.cc/)
-
-![](ideia%20b%C3%A1sica.jpg)
-
 ### Contatos
 
 Ver da experiência desses caras e se/como pode rolar uma parceria
