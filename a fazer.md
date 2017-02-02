@@ -125,3 +125,9 @@ Ajustes a fazer no FreeCAD para poder trabalhar com wikihouse. Tudo feito já.
 * Tamanho da maquete: 46cm x 112 cm
 * Custo do painel 2mm = R$ 25/m² = R$ 1400
 * Custo do corte?
+
+### Empresas CNC em So Paulo
+
+* [Cutter CNC](http://www.cuttercnc.com/)
+* [Corte Recorte](http://www.corterecorte.com.br/)
+* [Forest CNC](http://forestcnc.com.br/)
