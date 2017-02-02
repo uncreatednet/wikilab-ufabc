@@ -116,3 +116,12 @@ Ajustes a fazer no FreeCAD para poder trabalhar com wikihouse. Tudo feito já.
 * 1 espaço para projeção
 * 1 mesa/bancada para impressoras
 * estantes de livros (quto couber)
+
+### Maquete
+
+* Tamanho original: 175 painéis x 1.20m x 2.40m = 504 m²
+* Escala: de 18mm para 2mm = 1:9
+* 504 m² / 9 = 56 m² de painel de compensado de 2mm
+* Tamanho da maquete: 46cm x 112 cm
+* Custo do painel 2mm = R$ 25/m² = R$ 1400
+* Custo do corte?
