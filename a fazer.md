@@ -31,7 +31,7 @@ Ver da experiência desses caras e se/como pode rolar uma parceria
 * Ventilação / aspecto sustentabilidade
 * Ver estratégia de aprovação (instalação temporária?)
 * Ver estratégia de fabricação
-* Opções de material de revestimento
+* Opções de material de revestimento - ver [opções no pinterest](https://au.pinterest.com/yorikvanhavre/wikilab/)
 * Pesquisar proteção contra fogo
 * Ver técnicas para portas e janelas
 * Estimar cronograma / tempo de montagem / pessoal necessário
