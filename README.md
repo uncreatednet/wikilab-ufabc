@@ -11,5 +11,3 @@ Veja o [modelo no sketchfab](https://sketchfab.com/models/bab56ed7d2414e13b3eacd
 ![](render/0003.jpg)
 
 ![](render/0004.jpg)
-
-![](ideia%20b%C3%A1sica.jpg)
