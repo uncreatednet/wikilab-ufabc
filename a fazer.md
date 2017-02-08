@@ -58,6 +58,7 @@ Ver da experiência desses caras e se/como pode rolar uma parceria
 * Custo transporte
 * Custo projeto? Contribuição wikihouse
 * Esquadrias: 28m² *x R$ 300/m² = R$ 8500
+* Custo de uma máquina CNC?
 
 ### FreeCAD & arquivos digitais
 
