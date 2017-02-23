@@ -40,13 +40,13 @@
      inkscape:window-height="1051"
      id="namedview21052"
      showgrid="false"
-     inkscape:zoom="0.49630759"
-     inkscape:cx="696.8103"
-     inkscape:cy="468.17052"
+     inkscape:zoom="0.70188492"
+     inkscape:cx="760.4251"
+     inkscape:cy="599.76082"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg21050" />
+     inkscape:current-layer="g41185" />
   <title
      id="title2">FreeCAD SVG Export</title>
   <desc
@@ -321,6 +321,33 @@
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#088eee;fill-opacity:1;fill-rule:evenodd;stroke:#088eee;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path70355-9" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10025">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.55100002;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#c3c3c3;fill-opacity:0.53333291;fill-rule:nonzero;stroke:none;stroke-width:0.83072913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect10027"
+         width="108.02729"
+         height="186.68623"
+         x="-88.701256"
+         y="419.6846" />
+    </clipPath>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotL-4-0"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path69607-4-2"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
     </marker>
   </defs>
   <g
@@ -895,7 +922,7 @@
      transform="matrix(0.27777778,0,0,0.27777778,47.183045,0.09681222)" />
   <g
      id="g41185"
-     transform="translate(82.805601,-369.82217)">
+     transform="translate(101.35684,-369.82217)">
     <g
        stroke-miterlimit="4"
        transform="matrix(0,0.030002,0.0299991,0,85.253772,441.84459)"
@@ -918,6 +945,27 @@
        width="150.1835"
        id="rect130734-3"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.09555555;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/yorik/Documents/Repos/Textures/Vegetation/Trees/tree35l.png"
+       y="420.39746"
+       x="-106.65952"
+       id="image10020"
+       xlink:href="file:///home/yorik/Documents/Repos/Textures/Vegetation/Trees/tree35l.png"
+       preserveAspectRatio="none"
+       height="181.96628"
+       width="123.08063"
+       style="opacity:0.551"
+       clip-path="url(#clipPath10025)" />
+    <image
+       sodipodi:absref="/home/yorik/Documents/Repos/Textures/Vegetation/Trees/tree26l.png"
+       y="398.72968"
+       x="61.718018"
+       id="image9241"
+       xlink:href="file:///home/yorik/Documents/Repos/Textures/Vegetation/Trees/tree26l.png"
+       preserveAspectRatio="none"
+       height="202.3212"
+       width="163.35831"
+       style="opacity:0.65100002" />
     <path
        inkscape:connector-curvature="0"
        id="path64050-3"
@@ -24112,89 +24160,102 @@
     </g>
     <rect
        ry="0.3290616"
-       rx="0.2070685"
+       rx="0.33876929"
        y="597.97736"
-       x="-54.103199"
+       x="-88.701256"
        height="8.3934813"
-       width="223.60503"
+       width="365.82346"
        id="rect36053-2-5"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c4c4c4;fill-opacity:0.53170734;fill-rule:nonzero;stroke:none;stroke-width:0.59234095;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c4c4c4;fill-opacity:0.53170734;fill-rule:nonzero;stroke:none;stroke-width:0.75764668;marker:none;enable-background:accumulate" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path36051-2-2"
-       d="M -54.103197,597.97714 H 169.52186"
-       style="fill:none;stroke:#000000;stroke-width:0.59321678;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="M -88.698353,597.97714 H 277.11903"
+       style="fill:none;stroke:#000000;stroke-width:0.75872666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text65201-6-36"
-       y="495.2764"
-       x="125.18175"
+       y="485.77023"
+       x="233.72273"
        style="font-style:normal;font-weight:normal;font-size:10.41666603px;line-height:6.5104146px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
-         y="495.2764"
-         x="125.18175"
+         y="485.77023"
+         x="233.72273"
          id="tspan65199-5-0"
-         sodipodi:role="line">Cobertura em telha de fibrocimento, policarbonatoou polipropileno</tspan><tspan
+         sodipodi:role="line">Cobertura em telha de </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
+         y="493.45456"
+         x="233.72273"
+         sodipodi:role="line"
+         id="tspan9244">fibrocimento, policarbonato </tspan><tspan
          id="tspan65824-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
-         y="502.96072"
-         x="125.18175"
-         sodipodi:role="line">com ventilação inferior e superior</tspan></text>
+         y="501.13892"
+         x="233.72273"
+         sodipodi:role="line">ou polipropileno com ventilação </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
+         y="508.82324"
+         x="233.72273"
+         sodipodi:role="line"
+         id="tspan9254">inferior e superior</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path69544-1"
-       d="m 122.07708,494.14602 h -21.44965 l -8.61361,3.96102"
+       d="m 232.13462,494.14602 -131.50719,0 -8.61361,3.96102"
        style="fill:none;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DotL-4)"
        sodipodi:nodetypes="ccc" />
     <text
        id="text65201-6-3-00"
        y="589.38806"
-       x="124.39467"
+       x="231.80632"
        style="font-style:normal;font-weight:normal;font-size:10.41666603px;line-height:6.5104146px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
          y="589.38806"
-         x="124.39467"
+         x="231.80632"
          id="tspan65199-5-7-0"
          sodipodi:role="line">Base de alvenaria</tspan></text>
     <text
        id="text65201-6-3-3-9"
        y="580.07452"
-       x="124.52583"
+       x="231.93748"
        style="font-style:normal;font-weight:normal;font-size:10.41666603px;line-height:6.5104146px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
          y="580.07452"
-         x="124.52583"
+         x="231.93748"
          id="tspan65199-5-7-2-8"
          sodipodi:role="line">Vigas-guia</tspan></text>
     <text
        id="text65201-6-3-32-9"
        y="547.67352"
-       x="124.78819"
+       x="232.19984"
        style="font-style:normal;font-weight:normal;font-size:10.41666603px;line-height:6.5104146px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
          y="547.67352"
-         x="124.78819"
+         x="232.19984"
          id="tspan65199-5-7-3-1"
          sodipodi:role="line">Módulo Wikihouse</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path69852-3"
-       d="M 121.80988,546.24239 H 98.985072"
-       style="fill:none;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker69862-2)" />
+       d="m 227.73743,546.24239 -128.752358,0"
+       style="fill:none;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker69862-2)"
+       sodipodi:nodetypes="cc" />
     <path
        inkscape:connector-curvature="0"
        id="path69899-3"
-       d="M 121.94106,578.64312 H 107.90511 L 100.69038,589.662"
-       style="fill:none;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker69909-9)" />
+       d="m 226.75554,578.64312 -118.85043,0 -7.21473,11.01888"
+       style="fill:none;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker69909-9)"
+       sodipodi:nodetypes="ccc" />
     <path
        inkscape:connector-curvature="0"
        id="path69941-4"
-       d="m 121.94106,588.08786 h -13.90477 l -5.90297,6.42768"
-       style="fill:none;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker69951-9)" />
+       d="m 227.12657,588.08786 -119.09028,0 -5.90297,6.42768"
+       style="fill:none;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker69951-9)"
+       sodipodi:nodetypes="ccc" />
     <path
        sodipodi:nodetypes="cccsc"
        inkscape:connector-curvature="0"
@@ -28430,23 +28491,54 @@
     <text
        id="text65201-6-3-3-3-7"
        y="567.25995"
-       x="124.06894"
+       x="231.48059"
        style="font-style:normal;font-weight:normal;font-size:10.41666603px;line-height:6.5104146px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
          y="567.25995"
-         x="124.06894"
+         x="231.48059"
          id="tspan65199-5-7-2-6-7"
          sodipodi:role="line">Painéis impermeabilizados</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path20343-0"
-       d="M 120.91899,566.59821 H 84.002032 l -17.25265,20.77737"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker20353-0)" />
+       d="m 226.47552,566.59821 -142.473488,0 -17.25265,20.77737"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker20353-0)"
+       sodipodi:nodetypes="ccc" />
     <path
        inkscape:connector-curvature="0"
        id="path20451-1"
        d="M -18.008182,587.25431 H 97.238592"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26041666px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text65201-6-36-9"
+       y="446.63019"
+       x="233.97198"
+       style="font-style:normal;font-weight:normal;font-size:10.41666603px;line-height:6.5104146px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
+         y="446.63019"
+         x="233.97198"
+         sodipodi:role="line"
+         id="tspan9254-4">Árvores ao redor protegem</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
+         y="454.31451"
+         x="233.97198"
+         sodipodi:role="line"
+         id="tspan10380">contra o sol e o vento</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path69544-1-5"
+       d="m 232.38387,450.31841 -39.30755,0 -65.00936,10.26844"
+       style="fill:none;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DotL-4-0)"
+       sodipodi:nodetypes="ccc" />
   </g>
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.19000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect9231"
+     width="0"
+     height="0"
+     x="0"
+     y="0"
+     transform="scale(0.26041665)" />
 </svg>

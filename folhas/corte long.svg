@@ -40,9 +40,9 @@
      inkscape:window-height="1051"
      id="namedview21052"
      showgrid="false"
-     inkscape:zoom="0.49630759"
-     inkscape:cx="1253.4152"
-     inkscape:cy="644.26539"
+     inkscape:zoom="0.70188492"
+     inkscape:cx="773.95714"
+     inkscape:cy="565.97734"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,13 +54,58 @@
   <defs
      id="defs6">
     <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker34713"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotL">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path34711" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker34601"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path34599"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker34495"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path34493" />
+    </marker>
+    <marker
        inkscape:stockid="DotL"
        orient="auto"
        refY="0.0"
        refX="0.0"
        id="marker20353"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path20351"
          d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
@@ -243,6 +288,48 @@
          id="path70355-9" />
     </marker>
   </defs>
+  <image
+     sodipodi:absref="/home/yorik/Documents/Repos/Textures/Vegetation/Trees/tree26l.png"
+     y="9.1355677"
+     x="239.25723"
+     id="image9241"
+     xlink:href="file:///home/yorik/Documents/Repos/Textures/Vegetation/Trees/tree26l.png"
+     preserveAspectRatio="none"
+     height="202.3212"
+     width="163.35831"
+     style="opacity:0.65100002" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.83072913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect34349"
+     width="12.928499"
+     height="27.761011"
+     x="309.24988"
+     y="85.919067" />
+  <image
+     sodipodi:absref="/home/yorik/Documents/Repos/Textures/Vegetation/Trees/tree35l.png"
+     y="31.47365"
+     x="16.585426"
+     id="image10020"
+     xlink:href="file:///home/yorik/Documents/Repos/Textures/Vegetation/Trees/tree35l.png"
+     preserveAspectRatio="none"
+     height="181.96628"
+     width="123.08063"
+     style="opacity:0.55100002"
+     clip-path="none" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.83072913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect34150"
+     width="48.349335"
+     height="125.01305"
+     x="59.333447"
+     y="83.691498" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.27526069;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect34126"
+     width="89.996704"
+     height="95.706459"
+     x="290.51492"
+     y="113.52991" />
   <g
      style="font-style:normal;font-weight:400;font-size:3.125px;font-family:'Fira Sans OT';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
      id="g8"
@@ -72065,4 +72152,74 @@
        d="M 72.8363,117.96267 H 324.82873"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26041666px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
+  <text
+     id="text65201-6-36-9"
+     y="243.62675"
+     x="127.7966"
+     style="font-style:normal;font-weight:normal;font-size:10.41666603px;line-height:6.5104146px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
+       y="243.62675"
+       x="127.7966"
+       sodipodi:role="line"
+       id="tspan10380">O peso leve permite fundações rasas</tspan></text>
+  <text
+     id="text65201-6-36-9-9"
+     y="232.32437"
+     x="127.7966"
+     style="font-style:normal;font-weight:normal;font-size:10.41666603px;line-height:6.5104146px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
+       y="232.32437"
+       x="127.7966"
+       sodipodi:role="line"
+       id="tspan10380-2">Fundo com painéis impermeabilizados</tspan></text>
+  <text
+     id="text65201-6-36-9-9-1"
+     y="255.03801"
+     x="127.7966"
+     style="font-style:normal;font-weight:normal;font-size:10.41666603px;line-height:6.5104146px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
+       y="255.03801"
+       x="127.7966"
+       sodipodi:role="line"
+       id="tspan10380-2-7">Volume de alvenaria concentra todas </tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
+       y="262.72235"
+       x="127.7966"
+       sodipodi:role="line"
+       id="tspan34329">as instalações hidraúlicas</tspan></text>
+  <text
+     id="text65201-6-36-9-9-7"
+     y="72.864189"
+     x="127.56371"
+     style="font-style:normal;font-weight:normal;font-size:10.41666603px;line-height:6.5104146px;font-family:'Walkway Oblique Bold';-inkscape-font-specification:'Walkway Oblique Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55555534px;font-family:arial;-inkscape-font-specification:arial;stroke-width:1"
+       y="72.864189"
+       x="127.56371"
+       sodipodi:role="line"
+       id="tspan10380-2-9">Cobertura protegida pelas árvores ao redor</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker20353)"
+     d="m 128.00353,74.199657 v 7.97703"
+     id="path34351"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker34495)"
+     d="M 123.36572,231.14311 H 102.77384 L 84.037096,200.34806"
+     id="path34353"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker34601)"
+     d="m 222.61482,241.71731 h 27.82686 l 23.37455,-29.12544"
+     id="path34355"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.13020833;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker34713)"
+     d="m 222.42931,253.77562 74.20496,0 60.47701,-92.57067"
+     id="path34357"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" />
 </svg>
