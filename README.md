@@ -8,7 +8,7 @@ Este projeto está em fase de desenvolvimento para ser construidono correr de 20
 
 Nas pastas deste projeto, podem ser encontrados:
 
-* Um arquivo .FCStd a ser aberto com o [FreeCAD](http://www.freecadweb.org) contendo o projeto completo em 3D
+* Um arquivo .FCStd a ser aberto com o [FreeCAD](http://www.freecadweb.org) contendo o projeto completo em 3D ([BIM](https://pt.wikipedia.org/wiki/BIM))
 * Um arquivo .blend a ser aberto com o [Blender](http://www.blender.org) contendo o mesmo modelo para geração de imagens
 * Um arquivo .ods (LibreOffice) contendo o [orçamento preliminar](or%C3%A7amento.ods) do projeto
 * Uma pasta com exemplos e referências de outros projetos
