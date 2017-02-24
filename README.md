@@ -12,7 +12,8 @@ Nas pastas deste projeto, podem ser encontrados:
 * Um arquivo .blend a ser aberto com o [Blender](http://www.blender.org) contendo o mesmo modelo para geração de imagens
 * Um arquivo .ods (LibreOffice) contendo o orçamento preliminar do projeto
 * Uma pasta com exemplos e referências de outros projetos
-* Uma pasta "folhas" com um documento de apresentação em .pdf
+* Uma pasta "folhas" com um [documento de apresentação](folhas/completo.pdf) em .pdf
+* Um [anteprojeto de arquitetura](folhas/folha%20A1.pdf) em .pdf (formato A1)
 * Diversas pastas com elementos (texturas, modelos,etc) necessários à elaboraço do conteúdo acima
 * Um arquivo .dxf que é uma amosta das folhas de cortes que sero geradas para fazer o cortes dos painéis  em máquinas CNC
 
