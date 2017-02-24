@@ -10,7 +10,7 @@ Nas pastas deste projeto, podem ser encontrados:
 
 * Um arquivo .FCStd a ser aberto com o [FreeCAD](http://www.freecadweb.org) contendo o projeto completo em 3D
 * Um arquivo .blend a ser aberto com o [Blender](http://www.blender.org) contendo o mesmo modelo para geração de imagens
-* Um arquivo .ods (LibreOffice) contendo o orçamento preliminar do projeto
+* Um arquivo .ods (LibreOffice) contendo o [orçamento preliminar](or%C3%A7amento.ods) do projeto
 * Uma pasta com exemplos e referências de outros projetos
 * Uma pasta "folhas" com um [documento de apresentação](folhas/completo.pdf) em .pdf
 * Um [anteprojeto de arquitetura](folhas/folha%20A1.pdf) em .pdf (formato A1)
