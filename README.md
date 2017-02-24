@@ -19,3 +19,5 @@ Nas pastas deste projeto, podem ser encontrados:
 ![](render/0012.jpg)
 
 Veja também o [modelo no sketchfab](https://sketchfab.com/models/bab56ed7d2414e13b3eacd6c2f29ce65)
+
+![](render/0024.jpg)
