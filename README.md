@@ -15,7 +15,7 @@ Nas pastas deste projeto, podem ser encontrados:
 * Uma pasta "folhas" com um [documento de apresentação](folhas/completo.pdf) em .pdf
 * Um [anteprojeto de arquitetura](folhas/folha%20A1.pdf) em .pdf (formato A1)
 * Diversas pastas com elementos (texturas, modelos,etc) necessários à elaboraço do conteúdo acima
-* Um arquivo .dxf que é uma amosta das folhas de cortes que sero geradas para fazer o cortes dos painéis  em máquinas CNC
+* Um [arquivo .dxf](cut%20sheet.dxf) que é uma amosta das folhas de cortes que sero geradas para fazer o cortes dos painéis  em máquinas CNC
 
 ![](render/0012.jpg)
 
