@@ -6,6 +6,8 @@ The laboratory will host both the [Free Software Laboratory](http://pesquisa.ufa
 
 ![](render/0007.jpg)
 
+*See also [a 3D version on Sketchfab](https://sketchfab.com/models/25cfcc0eaea24e3394ba76c1929d31ca)*
+
 ### The project
 
 The project is now in development phase. The terrain will be donated by the university, and the construction costs covered by an ongoing [crowdfunding campaign](https://www.catarse.me/wikilab).
