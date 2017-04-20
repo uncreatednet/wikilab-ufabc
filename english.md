@@ -35,11 +35,11 @@ This hybrid system is an interesting idea to use in this case, for several reaso
 
 ### Collaborative approach
 
-The adaptation of the Wikihouse [Wren module](https://github.com/wikihouseproject/Wren/wiki/Wren-Technical-Design-Guide) into this project has been done originally by Maíra and Yorik of [uncreated.net](http//www.uncreated.net) with almost no modification of the base module. The pretension is to build by the book, and follow the guidelines as close as possible, to minimize possible problems and also contribute with a kind of "tropical version" of the Wren module guidelines.
+The adaptation of the Wikihouse [Wren module](https://github.com/wikihouseproject/Wren/wiki/Wren-Technical-Design-Guide) into this project has been done originally by Maíra and Yorik of [uncreated.net](http://www.uncreated.net) with almost no modification of the base module. The pretension is to build by the book, and follow the guidelines as close as possible, to minimize possible problems and also contribute with a kind of "tropical version" of the Wren module guidelines.
 
 Another aim is to develop simple and adaptive ways to create natural climate control, using cheap techniques and materials. This is an ongoing process that will last for much longer than the construction time, as it will develop during the laboratory lifetime.
 
-All these experiments are and will continue to be fully documented here, to be used by anybody interested. The whole process, including the further developments of the project, are open to anybody interested in contributing. Contact [Maíra or Yorik](http//www.uncreated.net), or simply create a [Github](http//www.github.com) account and open an issue on this repository to start a conversation. The project also has a [Facebook page](https://www.facebook.com/wikilab.abc/) (in portuguese) and regularly organizes meetings in São Bernardo where anybody interested is welcome to participate.
+All these experiments are and will continue to be fully documented here, to be used by anybody interested. The whole process, including the further developments of the project, are open to anybody interested in contributing. Contact [Maíra or Yorik](http://www.uncreated.net), or simply create a [Github](http://www.github.com) account and open an issue on this repository to start a conversation. The project also has a [Facebook page](https://www.facebook.com/wikilab.abc/) (in portuguese) and regularly organizes meetings in São Bernardo where anybody interested is welcome to participate.
 
 
 
