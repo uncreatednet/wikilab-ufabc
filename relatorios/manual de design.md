@@ -16,6 +16,8 @@ Contate um engenheiro ou arquiteto, combine um preço para o conselho, e inclua 
 
 Segundo a [Wikipedia](https://en.wikipedia.org/wiki/WikiHouse): O [WikiHouse](http://www.wikihouse.cc) é um sistema [aberto](https://pt.wikipedia.org/wiki/Hardware_livre) para construir casas. Ele foi pensado para democratizar e simplificar a construção de habitações sustentáveis e que necessitem poucos recursos. O projeto foi concebido em 2011 no Reino Unido, por Alastair Parvin (Aconselho muito assistir a [palestra dele no TED](w.ted.com/talks/alastair_parvin_architecture_for_the_people_by_the_people) (tem legendas em português disponíveis clicando no botão "subtitles"), Nick Ierodiaconou, Tav of Espians, James Arthur e Steve Fisher.
 
+![](https://github.com/uncreatednet/wikilab-ufabc/raw/master/render/0025.jpg)
+
 O sistema permite que pessoas baixem arquivos com [licenças abertas](https://pt.wikipedia.org/wiki/Creative_Commons) da internet, modifiquem se quiser esses arquivos com programas de modelagem 3D como [SketchUp](http://www.sketchup.com) ou [FreeCAD](http://www.freecadweb.org), e a partir daí criem, como uma [máquina CNC](https://pt.wikipedia.org/wiki/Comando_num%C3%A9rico_computadorizado), peças de madeira encaixáveis como em um quebra-cabeça gigante. Essas peça são montadas sem prego nem cola, com técnicas inspiradas das construções de madeira tradicionais asiáticas. Uma WikiHouse pode ser construída em um dia só, por pessoas que nunca trabalharam com construção antes.
 
 ![](https://github.com/uncreatednet/wikilab-ufabc/raw/master/fotos/constru%C3%A7%C3%A3o%20da%20primeira%20costela/IMG_20170530_114645.jpg)
@@ -51,6 +53,8 @@ Como já explicado acima, é importante ter o apoio de alguém que tenha bons co
 #### Legislação
 
 A legislaço no Brasil, como na maior parte do mundo, não permite que você construa uma estrutura onde pessoas vão permanecer sem autorização prévia. A idéia disso é garantir que todo mundo more em condições minimamente salúbiras. Para obter essa autorização, que geralmente é concedida pela secretaria de obras da sua prefeitura, deve ser feita uma demanda de autorização de construir (o nome dessa demanda, e do documento que você recebe que dá a autorização, pode variar de uma prefeitura para outra). Essa demanda geralmente incluí o preenchimento de alguns formulários, e a entrega de desenhos (plantas, vistas das fachadas, etc) do projeto, que vão permitir aos funcionários da prefeitura julgar se o projeto atende a todas as leis necessárias. Cada prefeitura tem suas próprias regras que dizem quais desenhos ela vai exigir.
+
+![](https://github.com/uncreatednet/wikilab-ufabc/raw/master/render/0038.jpg)
 
 A lei mais importante que um projeto de construço deve respeitar, é o código de obras do município. Esse código geralmente define todas as caraterísticas de salubridade, solidez e respeito aos demais usuários da cidade que uma construção nova deve ter. O terreno onde você planeja construir também pode ter leis municipais ou estaduais como plano diretor ou lei de uso e ocupaço do solo, que podem obrigar ou proibir certos aspectos. Mas podem existir outras leis municipais, estaduais ou até federais que se aplicam também aoseu projeto. A secretaria de obras do seu município, ou seu arquiteto ou engenheiro se você já chamou algum, poderá dizer quais leis se aplicam no seu caso. 
 
