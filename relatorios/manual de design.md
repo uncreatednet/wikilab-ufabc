@@ -16,6 +16,10 @@ Segundo a [Wikipedia](https://en.wikipedia.org/wiki/WikiHouse): O [WikiHouse](ht
 
 O sistema permite que pessoas baixem arquivos com [licenças abertas](https://pt.wikipedia.org/wiki/Creative_Commons) da internet, modifiquem se quiser esses arquivos com programas de modelagem 3D como [SketchUp](http://www.sketchup.com) ou [FreeCAD](http://www.freecadweb.org), e a partir daí criem, como uma [máquina CNC](https://pt.wikipedia.org/wiki/Comando_num%C3%A9rico_computadorizado), peças de madeira encaixáveis como em um quebra-cabeça gigante. Essas peça são montadas sem prego nem cola, com técnicas inspiradas das construções de madeira tradicionais asiáticas. Uma WikiHouse pode ser construída em um dia só, por pessoas que nunca trabalharam com construção antes.
 
+![](https://github.com/uncreatednet/wikilab-ufabc/raw/master/fotos/constru%C3%A7%C3%A3o%20da%20primeira%20costela/IMG_20170530_114645.jpg)
+
+![](https://github.com/uncreatednet/wikilab-ufabc/raw/master/fotos/constru%C3%A7%C3%A3o%20da%20primeira%20costela/IMG_20170530_124422.jpg)
+
 Essa construção de madeira ainda deve ser protegida da chuva e da umidade, e equipada com instalações elétricas e hidráulicas, para poder ser usada por pessoas.
 
 ## Planejar o projeto
