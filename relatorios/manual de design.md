@@ -1,5 +1,7 @@
 # Manual de design do wikilab
 
+![](https://github.com/uncreatednet/wikilab-ufabc/raw/master/render/0016.jpg)
+
 Este manual foi/está sendo escrito no correr do desenvolvimento do projeto [Wikilab](https://github.com/uncreatednet/wikilab-ufabc) por Yorik, arquiteto do [Uncreated](http://www.uncreated.net) e um dos desenvolvedores do projeto.
 
 O conteúdo deste manual é sob licença Creative Commons, e pode ser copiado, distribuído, usado e modificado livremente por quem quiser. Ele é construído a partir da nossa própria experiência, e a partir do [manual de design do módulo "Wren" do WikiHouse](https://github.com/wikihouseproject/Wren/wiki/Wren-Technical-Design-Guide).
