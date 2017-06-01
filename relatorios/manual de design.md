@@ -18,11 +18,15 @@ O sistema permite que pessoas baixem arquivos com [licenças abertas](https://pt
 
 Essa construção de madeira ainda deve ser protegida da chuva e da umidade, e equipada com instalações elétricas e hidráulicas, para poder ser usada por pessoas.
 
+## Planejar o projeto
+
+Essa etapa é muito importante, um bom planejamento faz toda a diferença entre um projeto bem executado, que fica dentro do custo estabelecido, e que dá pouca ou nenhuma dor de cabeça, e um projeto caro e cheio de complicações. 
+
 #### É para mim?
 
-O sistema WikiHouse não fornece uma habitação mais barata que uma construção tradicional de tijolos e cimento. O preço é bem similar. No entanto, se trata de um sistema extremamente fácil de montar, onde você está no controle total da construção. Em vez de comprar um produto (supostamente) acabado de uma empresa, você mesmo planeja, decide, e construí.
+O sistema WikiHouse não fornece uma habitação mais barata que uma construção tradicional de tijolos e cimento. O preço é bem similar, em torno de R$ 1200 por m² de piso. No entanto, se trata de um sistema extremamente fácil de montar, onde você está no controle total da construção. Em vez de comprar um produto (supostamente) acabado de uma empresa, você mesmo planeja, decide, construí, e modifica depois quando quiser.
 
-Com grandes poderes vem grandes responsabilidades, e a construção de um WikiHouse requere um trabalho grande, e, sendo experimental (tem poucas unidades construídas no mundo ainda), um acompanhamento cuidadoso após a construção. No entanto, esse trabalho todo é muito interessante, instrutivo e em muitos momentos muito divertido.
+Com grandes poderes vem grandes responsabilidades, e a construção de um WikiHouse requere um trabalho consequente, e, sendo experimental (tem poucas unidades construídas no mundo ainda), um acompanhamento sério após a construção. No entanto, esse trabalho todo é muito interessante, instrutivo e em muitos momentos muito divertido.
 
 #### Encontrar uma máquina CNC
 
@@ -34,7 +38,21 @@ O que se deve procurar é: uma máquina CNC que tenha o tamanho suficiente para 
 
 O custo pedido por uma empresa ou associação para cortar todas as peças de uma WikiHouse pode variar muito, é sempre bom começar essa pesquisa cedo. Veja abaixo a seção "Montar o orçamento" para mais detalhes sobre o custo do corte.
 
-## Planejar o projeto
+#### Apoio técnico
+
+Como já explicado acima, é importante ter o apoio de alguém que tenha bons conhecimentos e experiência na área da construção, como um arquiteto, engenheiro ou outra pessoa que tenha bastante experiência com construção, e que possa orientar, aconselhar, e evitar problemas e consequências que podem ser graves. Se trata apenas de pagar algumas horas de trabalho para que essa pessoa possa aconselhar você e vir dar uma olhada na construção. No preço total da construção, vai ser um gasto bem pequeno para ter uma segurança boa.
+
+#### Legislação
+
+A legislaço no Brasil, como na maior parte do mundo, não permite que você construa uma estrutura onde pessoas vão permanecer sem autorização prévia. A idéia disso é garantir que todo mundo more em condições minimamente salúbiras. Para obter essa autorização, que geralmente é concedida pela secretaria de obras da sua prefeitura, deve ser feita uma demanda de autorização de construir (o nome dessa demanda, e do documento que você recebe que dá a autorização, pode variar de uma prefeitura para outra). Essa demanda geralmente incluí o preenchimento de alguns formulários, e a entrega de desenhos (plantas, vistas das fachadas, etc) do projeto, que vão permitir aos funcionários da prefeitura julgar se o projeto atende a todas as leis necessárias. Cada prefeitura tem suas próprias regras que dizem quais desenhos ela vai exigir.
+
+A lei mais importante que um projeto de construço deve respeitar, é o código de obras do município. Esse código geralmente define todas as caraterísticas de salubridade, solidez e respeito aos demais usuários da cidade que uma construção nova deve ter. O terreno onde você planeja construir também pode ter leis municipais ou estaduais como plano diretor ou lei de uso e ocupaço do solo, que podem obrigar ou proibir certos aspectos. Mas podem existir outras leis municipais, estaduais ou até federais que se aplicam também aoseu projeto. A secretaria de obras do seu município, ou seu arquiteto ou engenheiro se você já chamou algum, poderá dizer quais leis se aplicam no seu caso. 
+
+A partir de um certo tamanho, a prefeitura vai também exigir que os desenhos estejam assinados por um profissional (arquiteto ou engenheiro) registrado.
+
+Cada prefeitura terá também um prazo próprio para a entrega da autorização, e pode pedir mudanças no projeto se julgar que algum aspecto no se enquadra em alguma lei. É bom planejar toda essa parte com bastante antecedência.
+
+Não se esqueça também que o WikiHouse é um sistema experimental, com poucas unidades construídas no mundo ainda, e que pode por isso assustar os funcionários da prefeitura. É sempre uma boa idéia, quando se trata de um projeto experimental, ir conversando com os funcionários da secretaria antes de fazer o pedido, explicar o projeto, mostrar outros exemplos (como este WikiLab), e "preparar o terreno".
 
 ## Software
 
