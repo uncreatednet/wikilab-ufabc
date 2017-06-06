@@ -52,17 +52,25 @@ Como já explicado acima, é importante ter o apoio de alguém que tenha bons co
 
 #### Legislação
 
-A legislaço no Brasil, como na maior parte do mundo, não permite que você construa uma estrutura onde pessoas vão permanecer sem autorização prévia. A idéia disso é garantir que todo mundo more em condições minimamente salúbiras. Para obter essa autorização, que geralmente é concedida pela secretaria de obras da sua prefeitura, deve ser feita uma demanda de autorização de construir (o nome dessa demanda, e do documento que você recebe que dá a autorização, pode variar de uma prefeitura para outra). Essa demanda geralmente incluí o preenchimento de alguns formulários, e a entrega de desenhos (plantas, vistas das fachadas, etc) do projeto, que vão permitir aos funcionários da prefeitura julgar se o projeto atende a todas as leis necessárias. Cada prefeitura tem suas próprias regras que dizem quais desenhos ela vai exigir.
+A legislação no Brasil, como na maior parte do mundo, não permite que você construa uma estrutura onde pessoas vão permanecer sem autorização prévia. A ideia disso é garantir que todo mundo more em condições minimamente salúbrias. Para obter essa autorização, que geralmente é concedida pela secretaria de obras da sua prefeitura, deve ser feita uma demanda de autorização de construir (o nome dessa demanda, e do documento que você recebe que dá a autorização, pode variar de uma prefeitura para outra). Essa demanda geralmente incluí o preenchimento de alguns formulários, e a entrega de desenhos (plantas, vistas das fachadas, etc) do projeto, que vão permitir aos funcionários da prefeitura julgar se o projeto atende a todas as leis necessárias. Cada prefeitura tem suas próprias regras que dizem quais desenhos ela vai exigir.
 
 ![](https://github.com/uncreatednet/wikilab-ufabc/raw/master/render/0038.jpg)
 
-A lei mais importante que um projeto de construço deve respeitar, é o código de obras do município. Esse código geralmente define todas as caraterísticas de salubridade, solidez e respeito aos demais usuários da cidade que uma construção nova deve ter. O terreno onde você planeja construir também pode ter leis municipais ou estaduais como plano diretor ou lei de uso e ocupaço do solo, que podem obrigar ou proibir certos aspectos. Mas podem existir outras leis municipais, estaduais ou até federais que se aplicam também aoseu projeto. A secretaria de obras do seu município, ou seu arquiteto ou engenheiro se você já chamou algum, poderá dizer quais leis se aplicam no seu caso. 
+A lei mais importante que um projeto de construção deve respeitar, é o código de obras do município. Esse código geralmente define todas as caraterísticas de salubridade, solidez e respeito aos demais usuários da cidade que uma construção nova deve ter. O terreno onde você planeja construir também pode ter leis municipais ou estaduais como plano diretor ou lei de uso e ocupação do solo, que podem obrigar ou proibir certos aspectos. Mas podem existir outras leis municipais, estaduais ou até federais que se aplicam também ao seu projeto. A secretaria de obras do seu município, ou seu arquiteto ou engenheiro se você já chamou algum, poderá dizer quais leis se aplicam no seu caso. 
 
 A partir de um certo tamanho, a prefeitura vai também exigir que os desenhos estejam assinados por um profissional (arquiteto ou engenheiro) registrado.
 
 Cada prefeitura terá também um prazo próprio para a entrega da autorização, e pode pedir mudanças no projeto se julgar que algum aspecto no se enquadra em alguma lei. É bom planejar toda essa parte com bastante antecedência.
 
-Não se esqueça também que o WikiHouse é um sistema experimental, com poucas unidades construídas no mundo ainda, e que pode por isso assustar os funcionários da prefeitura. É sempre uma boa idéia, quando se trata de um projeto experimental, ir conversando com os funcionários da secretaria antes de fazer o pedido, explicar o projeto, mostrar outros exemplos (como este WikiLab), e "preparar o terreno".
+Não se esqueça também que o WikiHouse é um sistema experimental, com poucas unidades construídas no mundo ainda, e que pode por isso assustar os funcionários da prefeitura. É sempre uma boa ideia, quando se trata de um projeto experimental, ir conversando com os funcionários da secretaria antes de fazer o pedido, explicar o projeto, mostrar outros exemplos (como este WikiLab), e "preparar o terreno".
+
+#### O lugar
+
+#### O orçamento
+
+#### O programa
+
+#### As opçoes técnicas
 
 ## Software
 
