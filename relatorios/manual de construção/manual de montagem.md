@@ -28,9 +28,39 @@ Após a colocação da camada de areia, o fundo da vala deve estar a 25 cm de pr
 
 ### 1.2. Fundação em alvenaria
 
-Na base da vala é colocada uma camada de 5cm de concreto magro, que forma a base da fundação.
+Na base da vala é colocada uma camada de 5cm de concreto magro, que forma a base da fundação. Sobre esta camada é constuida uma mureta de duas fileiras de blocos de concreto de 19 x 19 x 39cm, aparelhados e grauteados com argamassa.
 
-### 1.2. Hidráulica
+![](imagens/03.jpg)
+
+![](imagens/05.jpg)
+
+A cada 3 blocos, é colocada uma barra de aço filetada em posição vertical. Os dois blocos abaixo de cada barra devem ser grauteados. A barra deve ter 10 a 12 cm livres acima da alvenaria:
+
+![](imagens/06.jpg)
+
+![](imagens/07.jpg)
+
+Tubos de PVC para esgoto (pia e WC) e chegada de água fria estão colocados na parte interna da parede do banheiro, com cotovelos e saída embaixo da fundação. 
+
+**Atenção**
+
+Verificar, antes de colocar a tubulação, a localização das caixas coletoras de esgoto, e da disponibilidade de chegada de água fria
+
+![](imagens/09.jpg)
+
+
+
+Em seguida, as duas fileiras de blocos são impermeabilizadas com pintura bituminosa:
+
+![](imagens/08.jpg)
+
+Duas fileiras adicionais são colocadas em cima do bloco sanitário:
+
+![](imagens/04.jpg)
+
+
+
+### 1.3. Hidráulica
 
 ### 1.4. Alvenaria superior e lajes
 
