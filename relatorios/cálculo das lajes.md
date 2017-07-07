@@ -80,7 +80,7 @@ Mx = My = Mux x qL²/100 = 4.23 x 4.25Kn/m² x 4 / 100 = 0.71 kNm = **7.1 tfcm**
 
 
 
-##5. Dimensionamento das ferragens 
+## 5. Dimensionamento das ferragens 
 
 Usando aço CA-50 / concreto C20
 
