@@ -8,7 +8,7 @@ respeita [NBR 6118](https://drive.google.com/file/d/0B_sf8aj9_lOfVngzNnpPVkN6aWc
 
 
 
-![](esquema laje.svg)
+![](esquema-laje.svg)
 
 ## 1. Predimensionamento / flexão máxima
 
@@ -128,12 +128,10 @@ As min = 0.00075 x h xl = 0.00075 x 7 x 100 = **0.52 cm²/m**
 
 Telas disponíveis e área em cm²/m
 
-```
 | Bitola | 20 cm | 15 cm | 10 cm |
 | ------ | ----- | ----- | ----- |
 | 3.4 mm | 0.36  | 0.54  | 0,81  |
 | 4.2 mm | 0.55  | 0.82  | 1.24  |
-```
 
 Ferragem apropriado: **4.2 mm x 20 cm ou 3.4 mm x 15 cm**
 
