@@ -8,7 +8,7 @@ respeita [NBR 6118](https://drive.google.com/file/d/0B_sf8aj9_lOfVngzNnpPVkN6aWc
 
 
 
-![](esquema-laje.svg)
+![](esquema-laje.png)
 
 ## 1. Predimensionamento / flexão máxima
 

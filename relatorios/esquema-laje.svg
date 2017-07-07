@@ -15,10 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="esquema laje.svg"
-   inkscape:export-filename="/home/yorik/Dropbox/Works/wikilab UFABC/relatorios/esquema laje.png"
-   inkscape:export-xdpi="50"
-   inkscape:export-ydpi="50">
+   sodipodi:docname="esquema-laje.svg"
+   inkscape:export-filename="/home/yorik/Dropbox/Works/wikilab UFABC/relatorios/esquema-laje.png"
+   inkscape:export-xdpi="67.436607"
+   inkscape:export-ydpi="67.436607">
   <defs
      id="defs2">
     <marker
@@ -120,7 +120,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="132.93531"
+     inkscape:cx="-42.326157"
      inkscape:cy="354.44575"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -142,7 +142,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
