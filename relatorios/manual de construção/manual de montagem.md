@@ -30,15 +30,19 @@ Após a colocação da camada de areia, o fundo da vala deve estar a 25 cm de pr
 
 Na base da vala é colocada uma camada de 5cm de concreto magro, que forma a base da fundação. Sobre esta camada é constuida uma mureta de duas fileiras de blocos de concreto de 19 x 19 x 39cm, aparelhados e grauteados com argamassa.
 
+**Falta**: Descrição e fabricação da argamassa
+
 ![](imagens/03.jpg)
 
 ![](imagens/05.jpg)
 
-A cada 3 blocos, é colocada uma barra de aço filetada em posição vertical. Os dois blocos abaixo de cada barra devem ser grauteados. A barra deve ter 10 a 12 cm livres acima da alvenaria:
+A cada 3 blocos, é colocada uma barra de aço filetada em posição vertical. Os dois blocos abaixo de cada barra devem ser grauteados. A barra deve ter no mínimo 12 cm livres acima da alvenaria (mais se se planeja usar vigas-guia maiores que 8cm). A distância entre as duas fileiras de barras deve ser **exatamente 390cm**
 
 ![](imagens/06.jpg)
 
 ![](imagens/07.jpg)
+
+**Falta**: Descrição da filetagem
 
 Tubos de PVC para esgoto (pia e WC) e chegada de água fria estão colocados na parte interna da parede do banheiro, com cotovelos e saída embaixo da fundação. 
 
@@ -60,11 +64,93 @@ Duas fileiras adicionais são colocadas em cima do bloco sanitário:
 
 
 
-### 1.3. Hidráulica
+### 1.3. Alvenaria superior e lajes
 
-### 1.4. Alvenaria superior e lajes
+Antes de realizar a laje do bloco sanitário,  a parte situada embaixo da laje será reaterrada e compactada, para formar uma base para a concretagem. A terra é em seguida recoberta com uma membrana plástica.
+
+![](imagens/11.jpg)
+
+
+
+Tábuas são colocadas na periferia e pregadas umas à outras. A borda superior das tábuas deve ser perfeitamente horizontal, a 9 cm em cima da alvenaria. Os furos dos blocos de alvenaria podem ser tampados com papelão, isopor ou areia
+
+![](imagens/12.jpg)
+
+
+
+No fundo da forma é colocada uma tela de aço de bitola 4.2mm com malha de 20cm, ou de bitola 3.4mm com malha de 15cm, sobre espaçadores de plástico para manter a tela a 2cm do fundo da forma
+
+![](imagens/13.jpg)
+
+
+
+Finalmente o concreto é colocado para formar uma laje de 9cm de espessura, até a borda superior das tábuas. Depois da concretagem, as formas de madeira devem permanecer por 3 dias, e a laje deve ser regada 3 vezes por dia, e coberta por uma lona para freiar a evaporação, durante 7 dias.
+
+![](imagens/14.jpg)
+
+**Falta**: Representar por símbolos a rega e a cura, e composição do concreto
+
+A partir de 24 horas após a concretagem, a primeira fileira de blocos já pode ser colocada. Devem ser preivistas barras de reforço de aço de 5mm de 50cm de comprimento em cima da primeria fileira.
+
+![](imagens/15.jpg)
+
+
+
+Depois se colocam 11 outras fileiras, para obter uma altura total de 12 fileiras x 20cm = 240cm.
+
+![](imagens/16.jpg)
+
+
+
+A forma da laje superior é feita com painéis de compensado suportados por escoras
+
+![](imagens/17.jpg)
+
+
+
+Os painéis de borda são colocados da mesma maneira que a laje inferior, para formar uma laje de 9cm do lado exterior, 10cm do lado interior, para formar uma leve inclinação.
+
+![](imagens/18.jpg)
+
+
+
+Uma tela metálica idêntica à laje inferior (bitola 4.2mm com malha de 20cm, ou de bitola 3.4mm com malha de 15cm) é colocada sobre espaçadores de 2cm
+
+![](imagens/19.jpg)
+
+
+
+E finalmente o concreto é colocado, com adjuvante impermeabilizante. Duas regras são colocadas para formar uma borda de 2cm
+
+![](imagens/20.jpg)
+
+![](imagens/21.jpg)
+
+
+
+A laje deve ser coberta por lona e regada 3 vezes por dia durante 7 dias. As tábuas laterais podem ser retiradas após 3 dias, e as escoras após 21 dias.
+
+![](imagens/22.jpg)
+
+### 1.4. Hidráulica
+
+Cancelado
+
+**Falta**: Elaborar esta seção
 
 ### 1.5. Vigas-guia
+
+As vigas-guia são feitas de perfis de madeira maciça de 6cm x 8cm (ou mais). É muito importante cuidar para obter uma perfeita horizontalidade do conjunto.
+
+![](imagens/23.jpg)
+
+**Falta**: métodos para verificar a horizontalidade
+
+As vigas-guias são fixadas com rodelas e porcas compatíveis com o diâmetro das barras filetadas
+
+![](imagens/24.jpg)
+
+
 
 ## 2. WikiHouse
 
