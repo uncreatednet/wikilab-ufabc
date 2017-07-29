@@ -52,7 +52,7 @@ Verificar, antes de colocar a tubulação, a localização das caixas coletoras 
 
 ![](imagens/09.jpg)
 
-
+**Falta**: Eletricidade
 
 Em seguida, as duas fileiras de blocos são impermeabilizadas com pintura bituminosa:
 
