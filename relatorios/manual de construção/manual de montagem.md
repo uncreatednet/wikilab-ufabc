@@ -8,6 +8,8 @@ Este manual de montagem segue o [manual original da MicroHouse](https://github.c
 
 ## 1. Alvenaria
 
+Observação: Esta parte é prevista para ser realizada por empreiteira, pedreiro ou outra pessoa que tenha experiência na construção.
+
 ### 1.1. Preparo do terreno e escavação
 
 O perímetro de construção de 11.04m x 4.20m deve ser marcado no terreno com 4 marcadores nos cantos. A medida diagonal de 11.81m permite verificar que os cantos estejam com ângulos retos.
@@ -33,6 +35,8 @@ Na base da vala é colocada uma camada de 5cm de concreto magro, que forma a bas
 **Falta**: Descrição e fabricação da argamassa
 
 ![](imagens/03.jpg)
+
+**Falta**: Ferragens para refoço nos cantos?
 
 ![](imagens/05.jpg)
 
@@ -154,9 +158,83 @@ As vigas-guias são fixadas com rodelas e porcas compatíveis com o diâmetro da
 
 ## 2. WikiHouse
 
+Esta parte é prevista para ser construída por voluntários. Atenção, uma obra é um entorno perigoso. Verifique que todas as pessoas presentes na obra usem equipamento de segurnaça (capacete, luvas, sapatos fechados, óculos de proteção, e colete sinalizador se for trabalhar onde veículos transitam).
+
 ### 2.1. Estrutura principal da wikihouse
 
+A primeira parte da montagem consista em montar 8 elementos estruturais. Deve ser reservado um espaço seco, horizontal, e com piso duro (concreto, asfalto, etc...) de mais ou menos 5m x 5m, onde será montado cada elemento, e um outro lugar para armazenar os elementos prontos. Cada elemento faz mais ou menos 4m x 4m. Podem ser armazenados horizontalmente ou verticalmente, mas devem ser sempre protegidos da umidade.
+
+As peças são numeradas e fáceis de montar com martelos de borracha. Os martelos são indispensáveis para efetuar a montagem, cada pessoa presente deve dispor de um martelo.
+
+O primeiro passo é colocar no chão os 6 elementos da camada de base:
+
+![](imagens/25.jpg)
+
+Em cima dessa primeira camada, 5 peças de reforço:
+
+![](imagens/26.jpg)
+
+As peças de reforço, opcionalmente, podem ser coladas ou parafusadas nas peças principais em baixo.
+
+A etapa seguinte é montar o miolo. É melhor montar todo o miolo a parte:
+
+![](imagens/27.jpg)
+
+Em seguinda, o miolo é inserido nas duas camadas colocadas anteriormente:
+
+![](imagens/28.jpg)
+
+Depois, mais uma camada de peças de reforço:
+
+![](imagens/29.jpg)
+
+E a camada exterior final:
+
+![](imagens/30.jpg)
+
+A última etapa é a colocação dos "skis". Podem ser difíceis de colocar, é melhor começar pelo meio. Deve ter um pouco de cuidado para não danificar as peças.
+
+![](imagens/31.jpg)
+
+São 8 elementos como este. Se não vão ser usado imediatamente, podem ser armazenados deitados ou levantados, desde que estejam totalmente protegidos da umidade, tanto por cima (chuva) como por baixo (umidade do solo)
+
 ### 2.2. Colocaço e fixaço da estrutura
+
+Uma vez os 8 elementos contruídos, podem ser colocados em cima da viga-guia, começando pelo primeiro, que está diretamente encostado na alvenaria:
+
+![](imagens/32.jpg)
+
+Cada elemento estrutural deve ser fixado às vigas-guia por cantoneiras metálicas parafusadas, usando duas cantoneiras de cada lado (4 por elemento):
+
+![](imagens/33.jpg)
+
+Em seguida são colocados 3 espaçadores superiores e 8 espaçadores inferiores:
+
+![](imagens/34.jpg)
+
+E uma novo elemento estrutural, na distância marcada pelos espaçadores:
+
+![](imagens/35.jpg)
+
+Este novo elemento também é fixado às vigas-guia por cantoneiras metálicas:
+
+![](imagens/36.jpg)
+
+O mesmo procedimento de repete até instalar os 8 elementos:
+
+![](imagens/37.jpg)
+
+O último elemento coincide exatamente com o fim da viga-guia:
+
+![](imagens/38.jpg)
+
+Esse elemento é afixado com um ferro chato em vez de cantoneira:
+
+![](imagens/39.jpg)
+
+
+
+
 
 ### 2.3. Painéis de fechamento
 
