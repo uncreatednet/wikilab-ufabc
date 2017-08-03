@@ -62,6 +62,10 @@ Em seguida, as duas fileiras de blocos são impermeabilizadas com pintura bitumi
 
 ![](imagens/08.jpg)
 
+Apos esta operação, as valas devem ser reaterradas até o nível do solo.
+
+**Falta**: imagem após reaterro
+
 Duas fileiras adicionais são colocadas em cima do bloco sanitário:
 
 ![](imagens/04.jpg)
@@ -166,6 +170,8 @@ A primeira parte da montagem consista em montar 8 elementos estruturais. Deve se
 
 As peças são numeradas e fáceis de montar com martelos de borracha. Os martelos são indispensáveis para efetuar a montagem, cada pessoa presente deve dispor de um martelo.
 
+É recomendado sempre tentar por a numeração da peça do lado exterior, para ser mais facilmente identificável após a montagem.
+
 O primeiro passo é colocar no chão os 6 elementos da camada de base:
 
 ![](imagens/25.jpg)
@@ -234,15 +240,97 @@ Esse elemento é afixado com um ferro chato em vez de cantoneira:
 
 
 
-
+Novamente, se a próxima etapa não for feita imediatamente, é importante cobrir e proteger esta estrutura da chuva, por exemplo com lona plástica.
 
 ### 2.3. Painéis de fechamento
 
+Uma vez a estrutura erguida, os painéis de fechamento interiores e exteriores são colocados em cada módulo. São 3 módulos inteiramente fechados, e 4 módulos com janela. A disposição desses módulos pode ser mudada na hora de montar, no projeto original, a sequência é:
+
+* 1 módulo fechado (laranja)
+* 2 módulos com janela do lado esquerdo
+* 1 módulo fechado (laranja)
+* 2 módulos com janela do lado direito
+* 1 módulo fechado (laranja)
+
+![](imagens/41.jpg)
+
+Todos os módulos são simétricos, o lado pode ser invertido na obra se desejar.
+
+Os painéis exteriores são colocados primeiros:
+
+![](imagens/40.jpg)
+
+Em seguida, os painéis do fundo do piso. Esses painéis devem idealmente ser envernizados ou pintados, ou ser feitos com compensado resistente a umidade, antes da montagem. Esses painéis são colocados por dentro, simplesmente apoiados em cima dos "skis":
+
+![](imagens/42.jpg)
+
+Finalmente os painéis interiores são colocados:
+
+![](imagens/43.jpg)
+
+A mesma operação é repetida para os 2 outros módulos fechados. Para os 4 módulos com janela, a sequência de montagem é a mesma, mas o número das peças é diferente. As peças exteriores:
+
+![](imagens/44.jpg)
+
+e interiores:
+
+![](imagens/45.jpg)
+
+Para aumentar a resistência do conjunto, todas as peças interiores e exteriores devem ser parafusadas aos elements estruturais, usando parafusos de 35mm.
+
+![](imagens/46.jpg)
+
+Devem ser usados mínimo 4 parafusos para as peças pequenas (L46, L48, L61), e 8 parafusos para as peças grandes (L45, L47, L62, L63, L64, W1, W3). São um pouco menos de 100 parafusos por módulos.
+
+Novamente, se a operação posterior não vai ser feita imediatamente, é indispensável proteger esta estrutura da chuva, por exemplo com lona plástica.
+
 ## 3. Cobertura
+
+A cobertura funciona como um guarda-chuva, e protege a estrutura de madeira da chuva, sem encostar nela, para permitir que o ar passe em volta da madeira. Esse ponto é muito importante para garantir que a madeira sempre possa secar sem que se forme condensação. 
+
+Para que o ar circule entre a madeira e a cobertura, aberturas são deixadas, para que o ar mais frio (mais pesado) entre por baixo, seja esquentadopelo sol batendo na cobertura, suba (o ar quente, mais leve, sobe) e possa escapar por aberturas superiores.
+
+Desse modo, não somente impedimos a água de atingir a madeira, mas também permitimos uma ótima secagem caso alguma umidade consiga chegar de algum modo até a madeira.
 
 ### 3.1. Montagem da estrutura da cobertura
 
+Uma primeira camada de ripas de 3cm x 3cm é parafusada na estrutura de madeira. São 60 ripas de 260cm, com 6 parafusos de 45mm por ripa (360 parafusos no total)
+
+![](imagens/47.jpg)
+
+A seguir, são colocadas ripas transversais, também de 3cm x 3cm. São 16 linhas de 905cm. Usando ripas de  3.5m, são 48 peças. Deve ser colocado um parafuso de 55mm a cada cruzamento com ripas verticais. No total, são 320 parafusos.
+
+![](imagens/48.jpg)
+
+![](imagens/53.jpg)
+
+As emendas entre as diferentes ripas devem ser feitas quando cruzam as ripas verticais:
+
+![](imagens/49.jpg)
+
+No topo, duas ripas de 3x6cm são parafusadas a última fileira de ripas horizontais. Essas duas ripas maiores suportarão a cumeira.
+
+![](imagens/50.jpg)
+
+![](imagens/51.jpg)
+
 ### 3.2. Colocaço das telhas
+
+A cobertura é prevista para ser feita com telhas de polipropileno transparentes. Podem também ser usados painéis de policarbonato, ou fibro-cimento, nestes casos verificar as recomendações de montagem do fabricante, e adaptar os instruções abaixo se necessário.
+
+As telhas de polipropileno são baratas, e como são tranparentes, deixam passar a luz. No entanto, deixam também passar muito sol. Pode ser necessário cobrir elas depois de prontas, totalmente ou parcialmente, por exemplo pintando com spray de tinta branca, ou deixando crescer vegetação rasteira, ou, idealmente, plantando árvores ao redor da construção, o que também vai protegê-la do vento.
+
+No total são 2 painéis de 270cm x 905cm e dois painéis de 280cm x 905cm, e 905cm de cumeira:
+
+![](imagens/52.jpg)
+
+As telhas, quando colcoadas uma ao lado da outra, devem cobrir duas ondulações da telha anterior:
+
+![](imagens/56.jpg)
+
+A linha inferior da telha superior deve formar uma linha horizontal com a linha superior da telha inferior, para evitar que chuvas com muito vento consigam entrar:
+
+![](imagens/55.jpg)
 
 ## 4. Marcenaria e caixilharia
 
