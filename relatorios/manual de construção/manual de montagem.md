@@ -300,9 +300,13 @@ Uma primeira camada de ripas de 3cm x 3cm é parafusada na estrutura de madeira.
 
 A seguir, são colocadas ripas transversais, também de 3cm x 3cm. São 16 linhas de 905cm. Usando ripas de  3.5m, são 48 peças. Deve ser colocado um parafuso de 55mm a cada cruzamento com ripas verticais. No total, são 320 parafusos.
 
+**Mudar**: A cada 40cm em vez de 60cm
+
 ![](imagens/48.jpg)
 
 ![](imagens/53.jpg)
+
+**Errado**: Usar 6 ripas (espaçamento 50cm) em vez de 4
 
 As emendas entre as diferentes ripas devem ser feitas quando cruzam as ripas verticais:
 
@@ -324,13 +328,45 @@ No total são 2 painéis de 270cm x 905cm e dois painéis de 280cm x 905cm, e 90
 
 ![](imagens/52.jpg)
 
-As telhas, quando colcoadas uma ao lado da outra, devem cobrir duas ondulações da telha anterior:
+As telhas devem ser montadas com o lado liso virado para o exterior. Quando colcoadas uma ao lado da outra, devem cobrir duas ondulações da telha anterior:
 
 ![](imagens/56.jpg)
+
+É recomendado usar telhas de comprimento maior que 280cm, para que cada pano seja feito de uma telha só. Caso não for possível, o recobrimento mínimo entre uma telha e outra no sentido do comprimento é de 30cm:
+
+![](imagens/57.jpg)
+
+As telhas devem sempre ter um parafuso na primeira e última ondulação. A primeira onda deve passar da borda da madeira de 5cm, para protegê-la.
+
+![](imagens/61.jpg)
+
+
+
+**Falta**: quantidade de telha de 305cm
 
 A linha inferior da telha superior deve formar uma linha horizontal com a linha superior da telha inferior, para evitar que chuvas com muito vento consigam entrar:
 
 ![](imagens/55.jpg)
+
+
+
+As telhas são afixadas com parafusos apropriados, com uma rodela de borracha de cada lado da telha, no máximo a cada 50cm (diminuir essa medida se necessário, para cair num número certo de ondulações). Veja mais recomendações para fixação das telhas, inclusive com recomendações de regulagem da prafusadeira [nesta página](http://www.hipertelhas.com.br/parafusos-de-fixacao-para-telhados.html) e [nesta outra página](https://www.pinezi.com/data/arquivos/downloads/Manual%20Telhas%20Translucidas%20ESAF.pdf):
+
+![](imagens/58.jpg)
+
+**Falta**: descrição e quantidade de parafusos
+
+### 3.3 Cumeira
+
+A cumeira pode ser de outro material caso não se encontre cumeira com o mesmo aspecto que as telhas. O tamanho da onda não precisa ser igual, já que a cumeira não vai encostar nas telhas.
+
+A cumeira também deve respeitar as mesmas duas ondulações de sobreposição das demais telhas. É afixada sobre as duas ripas maiores colocadas anteriormente, de maneira a permitir a saida do ar entre a cumeira e as telhas:
+
+![](imagens/59.jpg)
+
+É afixada com os mesmos parafusos e rodelas que as telhas:
+
+![](imagens/60.jpg)
 
 ## 4. Marcenaria e caixilharia
 
