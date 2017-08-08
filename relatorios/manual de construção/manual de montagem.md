@@ -372,13 +372,41 @@ A cumeira também deve respeitar as mesmas duas ondulações de sobreposição d
 
 ### 4.1. Janelas e portas na alvenaria
 
+Existe uma porta de madeira e um caixilho metálico a serem colocados na parte de alvenaria. Ambos são de dimensões padrão e podem ser comprados diretamente no comércio.
+
+A porta é de madeira é uma porta padrão de 80cm x 210cm (essa é a dimensão do vão de alvenaria, não da folha da parta, que mede 73cm de largura, deixando 7cm para os dois montantes, um de cada lado, de 3.5cm cada um). A porta simplesmente se parafusa na alvenaria, usando buchas.
+
+![](imagens/62.jpg)
+
+Antes de instalar a porta, deve ser decidido o sentido de abertura. A porta tem 4 configurações possíveis, deve ser pensado onde vai ficar a folha da parta quando for aberta e se não bate em obstáculos ou móveis, ou dificulta o acesso.
+
+Em cima da porta existe um espaço de 29 cm a ser fechado com dois painéis de madeira de 29 x 80cm, por exemplo sobras dos painéis de OSB, afixados em duas peças de madeira de 29cm parafusadas na parede:
+
+![](imagens/63.jpg)
+
+O caixilho lateral é um caixilho de alumínio do tipo basculante, também chamado "Maxim-ar", de 60cm x 60cm. É muito comum e fácil de encontrar em lojas. É fixado diretamente na alvenaria, com parafusos e buchas.
+
+![](imagens/64.jpg)
+
+A base de alvenaria em baixo do caixilho deve ser protegido da chuva. Os blocos de concreto precisam ser grauteados, e alguma forma de proteção posta em cima, por exemplo usando uma folha de aço galvanizado presa entre o caixilho e a alvenaria:
+
+![](imagens/65.jpg)
+
 ### 4.2. Estruturas frontal e traseira
+
+Nas partes frontais e traseira da construção de madeira, são colocados conjuntos feitos com caibros de madeira parafusados na estrutura de OSB. Nesses caibros são colocados caixilhos de alumínio de tamanho padrão, comprados em lojas, fechamentos de vidro, e fechamentos de painéis de madeira envernizados.
+
+O suporte é feito com caibros de 6x6cm. A parte frontal permite a inclusão de uma porta de alumínio de 90cm x 210cm, e duas janelas de 120cm x 100cm.
+
+
 
 ### 4.3. Colocaço dos caixilhos
 
 ### 4.4. Fechamento de vidro
 
 ## 5. Acabamentos
+
+Item cancelado
 
 ### 5.1. Rampa
 
