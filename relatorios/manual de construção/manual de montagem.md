@@ -396,13 +396,95 @@ A base de alvenaria em baixo do caixilho deve ser protegido da chuva. Os blocos 
 
 Nas partes frontais e traseira da construção de madeira, são colocados conjuntos feitos com caibros de madeira parafusados na estrutura de OSB. Nesses caibros são colocados caixilhos de alumínio de tamanho padrão, comprados em lojas, fechamentos de vidro, e fechamentos de painéis de madeira envernizados.
 
-O suporte é feito com caibros de 6x6cm. A parte frontal permite a inclusão de uma porta de alumínio de 90cm x 210cm, e duas janelas de 120cm x 100cm.
+O suporte é feito com caibros de 6x6cm afixados diretamente na construção de OSB com cantoneiras metálicas parafusadas. A parte frontal permite a inclusão de uma porta de alumínio de 90cm x 210cm, e duas janelas de 120cm x 100cm. A parte traseira inclui duas janelas de 80cm x 80cm. As partes restantes são fechadas com vidro fixo afixado em réguas de madeira, e placas cimentícias do lado exterior, e painéis de OSB do lado interior.
+
+![](imagens/66.jpg)
 
 
 
-### 4.3. Colocaço dos caixilhos
+#### 4.2.1 Fachada frontal
 
-### 4.4. Fechamento de vidro
+![](imagens/67.jpg)
+
+A fachada é composta de 3 camadas: 1) uma estrutura de caibros de 6x6cm, 2) um revistimento exterior de placas cimentícias, e 3) um revestimento interior de OSB. Na estrutura de caibros também são afixados os caixilhos e vidros fixos.
+
+![](imagens/68.jpg)
+
+A estrutura de caibros é fixada diretamente no módulo WikiHouse com cantoneiras metálicas parafusados, ou pregos onde possível. Os caibros devem ser envernizados, ou deve ser usado madeira tratada para uso no exterior.
+
+![](imagens/69.jpg)
+
+![](imagens/72.jpg)
+
+Os caixilhos de alumínio são parafusados dirtamente nos caibros, usando as instruções do fornecedor dos caixilhos:
+
+![](imagens/70.jpg)
+
+Na parte superior, 4 quadros feitos com régua de madeira de 1.5cm x 1.5cm são pregados aos caibros, e 4 folhas de vidro são afixadas nestas réguas com massa de vidraçeiro. A régua fica do lado interior, e a massa de vidraçeiro do lado exterior:
+
+![](imagens/71.jpg)
+
+O lado exterior é coberto com placas cimentícias parafusadas nos caibros:
+
+![](imagens/73.jpg)
+
+A junção entre as placas cimentícias, e entre as placas cimentícias e as partes aparentes dos caibros e caixilhos, deve ser vedada com silicone, de maneira a formar uma fachada inteiramente impermeável.
+
+![](imagens/74.jpg)
+
+As bordas dessa fachada, entre as placas cimentícias e a telha de polipropileno, fica aberta para permitir a passagem do ar:
+
+
+
+
+
+![](imagens/75.jpg)
+
+
+
+**Falta**: painéis interiores
+
+#### 4.2.2 Fachada traseira
+
+O procedimento é idêntico na fachada traseira, com medidas diferentes. Abriga dois caixilhos de alumínio basculantes de 80cm x 80cm.
+
+![](imagens/76.jpg)
+
+
+
+![](imagens/77.jpg)
+
+
+
+Os caibros que ficam rentos à alvenaria não devem ser parafusados à alvenaria, para que possa ocorrer um movimento vertical entre a parte de alvenaria e a parte de madeira. A junta entre a madeira e a alvenaria deve ser selada com silicone (indicado em vermelho na imagem abaixo):
+
+![](imagens/78.jpg)
+
+
+
+Dois caixilhos de 80cm x 80cm são colocados, e axixados apenas na madeira. A borda que fica rente a alvenaria é vedada com silicone.
+
+![](imagens/79.jpg)
+
+4 folhas de vidro fixas são instalada da mesma maneira que a fachada da frente:
+
+![](imagens/80.jpg)
+
+E o todo coberto com placas cimentícias da mesma maneira que a outra fachada:
+
+![](imagens/81.jpg)
+
+3 painéis de OSB de 1cm são parafuusados aos caibros, do lado interior:
+
+![](imagens/83.jpg)
+
+
+
+A fachada acabada:
+
+![](imagens/82.jpg)
+
+
 
 ## 5. Acabamentos
 
