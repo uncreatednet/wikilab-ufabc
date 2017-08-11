@@ -6,9 +6,13 @@
 
 Este manual de montagem segue o [manual original da MicroHouse](https://github.com/wikihouseproject/Microhouse/blob/master/MicroHouse_AssemblyManual_v1_sm.pdf) com acréscimo das partes que não são feitas com tecnologia WikiHouse, e algumas particularidades próprias ao projeto WikiLab.
 
+**Falta**: Imagem geral
+
 ## 1. Alvenaria
 
 Observação: Esta parte é prevista para ser realizada por empreiteira, pedreiro ou outra pessoa que tenha experiência na construção.
+
+**Falta**: Imagem geral
 
 ### 1.1. Preparo do terreno e escavação
 
@@ -44,11 +48,15 @@ A cada 3 blocos, é colocada uma barra de aço filetada em posição vertical. O
 
 ![](imagens/06.jpg)
 
+**Falta**: Verificar posição dos ferros x costelas
+
 ![](imagens/07.jpg)
 
 **Falta**: Descrição da filetagem
 
 Tubos de PVC para esgoto (pia e WC) e chegada de água fria estão colocados na parte interna da parede do banheiro, com cotovelos e saída embaixo da fundação. 
+
+**Falta**: concretagem do solo
 
 **Atenção**
 
@@ -164,9 +172,17 @@ As vigas-guias são fixadas com rodelas e porcas compatíveis com o diâmetro da
 
 Esta parte é prevista para ser construída por voluntários. Atenção, uma obra é um entorno perigoso. Verifique que todas as pessoas presentes na obra usem equipamento de segurnaça (capacete, luvas, sapatos fechados, óculos de proteção, e colete sinalizador se for trabalhar onde veículos transitam).
 
+**Falta**: Descrição EPI
+
+**Falta**: Imagem geral
+
+**Falta**: Descrição equipamento/material necessário
+
 ### 2.1. Estrutura principal da wikihouse
 
 A primeira parte da montagem consista em montar 8 elementos estruturais. Deve ser reservado um espaço seco, horizontal, e com piso duro (concreto, asfalto, etc...) de mais ou menos 5m x 5m, onde será montado cada elemento, e um outro lugar para armazenar os elementos prontos. Cada elemento faz mais ou menos 4m x 4m. Podem ser armazenados horizontalmente ou verticalmente, mas devem ser sempre protegidos da umidade.
+
+**Falta**: Imagem geral
 
 As peças são numeradas e fáceis de montar com martelos de borracha. Os martelos são indispensáveis para efetuar a montagem, cada pessoa presente deve dispor de um martelo.
 
@@ -203,6 +219,8 @@ A última etapa é a colocação dos "skis". Podem ser difíceis de colocar, é 
 ![](imagens/31.jpg)
 
 São 8 elementos como este. Se não vão ser usado imediatamente, podem ser armazenados deitados ou levantados, desde que estejam totalmente protegidos da umidade, tanto por cima (chuva) como por baixo (umidade do solo)
+
+**Falta**: Imagem armazenamento
 
 ### 2.2. Colocaço e fixaço da estrutura
 
@@ -241,6 +259,8 @@ Esse elemento é afixado com um ferro chato em vez de cantoneira:
 
 
 Novamente, se a próxima etapa não for feita imediatamente, é importante cobrir e proteger esta estrutura da chuva, por exemplo com lona plástica.
+
+**Falta**: Imagem geral
 
 ### 2.3. Painéis de fechamento
 
@@ -284,9 +304,15 @@ Devem ser usados mínimo 4 parafusos para as peças pequenas (L46, L48, L61), e 
 
 Novamente, se a operação posterior não vai ser feita imediatamente, é indispensável proteger esta estrutura da chuva, por exemplo com lona plástica.
 
+**Falta**: Imagem lona
+
+**Falta**: Imagem geral
+
 ## 3. Cobertura
 
 A cobertura funciona como um guarda-chuva, e protege a estrutura de madeira da chuva, sem encostar nela, para permitir que o ar passe em volta da madeira. Esse ponto é muito importante para garantir que a madeira sempre possa secar sem que se forme condensação. 
+
+**Falta**: Imagem geral
 
 Para que o ar circule entre a madeira e a cobertura, aberturas são deixadas, para que o ar mais frio (mais pesado) entre por baixo, seja esquentadopelo sol batendo na cobertura, suba (o ar quente, mais leve, sobe) e possa escapar por aberturas superiores.
 
@@ -298,15 +324,11 @@ Uma primeira camada de ripas de 3cm x 3cm é parafusada na estrutura de madeira.
 
 ![](imagens/47.jpg)
 
-A seguir, são colocadas ripas transversais, também de 3cm x 3cm. São 16 linhas de 905cm. Usando ripas de  3.5m, são 48 peças. Deve ser colocado um parafuso de 55mm a cada cruzamento com ripas verticais. No total, são 320 parafusos.
-
-**Mudar**: A cada 40cm em vez de 60cm
+A seguir, são colocadas ripas transversais, também de 3cm x 3cm. São 24 linhas de 905cm. Usando ripas de  3.5m, são 72 peças. Deve ser colocado um parafuso de 55mm a cada cruzamento com ripas verticais. No total, são 360 parafusos.
 
 ![](imagens/48.jpg)
 
 ![](imagens/53.jpg)
-
-**Errado**: Usar 6 ripas (espaçamento 50cm) em vez de 4
 
 As emendas entre as diferentes ripas devem ser feitas quando cruzam as ripas verticais:
 
@@ -368,7 +390,13 @@ A cumeira também deve respeitar as mesmas duas ondulações de sobreposição d
 
 ![](imagens/60.jpg)
 
+
+
+**Falta**: Imagem geral
+
 ## 4. Marcenaria e caixilharia
+
+**Falta**: Imagem geral
 
 ### 4.1. Janelas e portas na alvenaria
 
@@ -484,7 +512,7 @@ A fachada acabada:
 
 ![](imagens/82.jpg)
 
-
+**Falta**: Imagem geral
 
 ## 5. Acabamentos
 
@@ -492,4 +520,9 @@ Item cancelado
 
 ### 5.1. Rampa
 
+**Falta**
+
 ## 6. Eletricidade
+
+**Falta**
+
