@@ -6,13 +6,13 @@
 
 Este manual de montagem segue o [manual original da MicroHouse](https://github.com/wikihouseproject/Microhouse/blob/master/MicroHouse_AssemblyManual_v1_sm.pdf) com acréscimo das partes que não são feitas com tecnologia WikiHouse, e algumas particularidades próprias ao projeto WikiLab.
 
-**Falta**: Imagem geral
+![](imagens/88.jpg)
 
 ## 1. Alvenaria
 
 Observação: Esta parte é prevista para ser realizada por empreiteira, pedreiro ou outra pessoa que tenha experiência na construção.
 
-**Falta**: Imagem geral
+![](imagens/89.jpg)
 
 ### 1.1. Preparo do terreno e escavação
 
@@ -40,7 +40,7 @@ Na base da vala é colocada uma camada de 5cm de concreto magro, que forma a bas
 
 ![](imagens/03.jpg)
 
-**Falta**: Ferragens para refoço nos cantos?
+**Falta**: Bloco canaleta na segunda fileira
 
 ![](imagens/05.jpg)
 
@@ -48,15 +48,23 @@ A cada 3 blocos, é colocada uma barra de aço filetada em posição vertical. O
 
 ![](imagens/06.jpg)
 
-**Falta**: Verificar posição dos ferros x costelas
+**Atenção**: É importante colocar os ferros nas posições acima, para evitar que batam com as "costelas" de madeira que serão instaladas depois:
+
+![](imagens/90.jpg)
+
+
 
 ![](imagens/07.jpg)
 
 **Falta**: Descrição da filetagem
 
-Tubos de PVC para esgoto (pia e WC) e chegada de água fria estão colocados na parte interna da parede do banheiro, com cotovelos e saída embaixo da fundação. 
+**Opcional**
 
-**Falta**: concretagem do solo
+Para diminuir a quantidade de umidade que chegará à estrutura de madeira por evaporação a partir do solo, pode ser coberto a parte de solo entre as muretas de alvenaria com uma camada de 5cm de concreto:
+
+![](imagens/91.jpg)
+
+Tubos de PVC para esgoto (pia e WC) e chegada de água fria estão colocados na parte interna da parede do banheiro, com cotovelos e saída embaixo da fundação. 
 
 **Atenção**
 
@@ -64,7 +72,9 @@ Verificar, antes de colocar a tubulação, a localização das caixas coletoras 
 
 ![](imagens/09.jpg)
 
-**Falta**: Eletricidade
+Da mesma mandeira, dois tubos são colocados para chegada de energia elétrica e lógica (rede/internet):
+
+![](imagens/92.jpg)
 
 Em seguida, as duas fileiras de blocos são impermeabilizadas com pintura bituminosa:
 
@@ -72,7 +82,7 @@ Em seguida, as duas fileiras de blocos são impermeabilizadas com pintura bitumi
 
 Apos esta operação, as valas devem ser reaterradas até o nível do solo.
 
-**Falta**: imagem após reaterro
+![](imagens/93.jpg)
 
 Duas fileiras adicionais são colocadas em cima do bloco sanitário:
 
@@ -160,7 +170,7 @@ As vigas-guia são feitas de perfis de madeira maciça de 6cm x 8cm (ou mais). �
 
 ![](imagens/23.jpg)
 
-**Falta**: métodos para verificar a horizontalidade
+**Falta**: mostrar com símbolos métodos para verificar a horizontalidade
 
 As vigas-guias são fixadas com rodelas e porcas compatíveis com o diâmetro das barras filetadas
 
@@ -174,7 +184,7 @@ Esta parte é prevista para ser construída por voluntários. Atenção, uma obr
 
 **Falta**: Descrição EPI
 
-**Falta**: Imagem geral
+![](imagens/94.jpg)
 
 **Falta**: Descrição equipamento/material necessário
 
@@ -182,7 +192,7 @@ Esta parte é prevista para ser construída por voluntários. Atenção, uma obr
 
 A primeira parte da montagem consista em montar 8 elementos estruturais. Deve ser reservado um espaço seco, horizontal, e com piso duro (concreto, asfalto, etc...) de mais ou menos 5m x 5m, onde será montado cada elemento, e um outro lugar para armazenar os elementos prontos. Cada elemento faz mais ou menos 4m x 4m. Podem ser armazenados horizontalmente ou verticalmente, mas devem ser sempre protegidos da umidade.
 
-**Falta**: Imagem geral
+![](imagens/95.jpg)
 
 As peças são numeradas e fáceis de montar com martelos de borracha. Os martelos são indispensáveis para efetuar a montagem, cada pessoa presente deve dispor de um martelo.
 
@@ -220,7 +230,9 @@ A última etapa é a colocação dos "skis". Podem ser difíceis de colocar, é 
 
 São 8 elementos como este. Se não vão ser usado imediatamente, podem ser armazenados deitados ou levantados, desde que estejam totalmente protegidos da umidade, tanto por cima (chuva) como por baixo (umidade do solo)
 
-**Falta**: Imagem armazenamento
+![](imagens/96.jpg)
+
+**Falta**: Verniz nas partes de baixo
 
 ### 2.2. Colocaço e fixaço da estrutura
 
@@ -260,7 +272,7 @@ Esse elemento é afixado com um ferro chato em vez de cantoneira:
 
 Novamente, se a próxima etapa não for feita imediatamente, é importante cobrir e proteger esta estrutura da chuva, por exemplo com lona plástica.
 
-**Falta**: Imagem geral
+![](imagens/97.jpg)
 
 ### 2.3. Painéis de fechamento
 
@@ -306,13 +318,15 @@ Novamente, se a operação posterior não vai ser feita imediatamente, é indisp
 
 **Falta**: Imagem lona
 
-**Falta**: Imagem geral
+![](imagens/103.jpg)
+
+**Falta** Verniz anti chamas
 
 ## 3. Cobertura
 
 A cobertura funciona como um guarda-chuva, e protege a estrutura de madeira da chuva, sem encostar nela, para permitir que o ar passe em volta da madeira. Esse ponto é muito importante para garantir que a madeira sempre possa secar sem que se forme condensação. 
 
-**Falta**: Imagem geral
+![](imagens/98.jpg)
 
 Para que o ar circule entre a madeira e a cobertura, aberturas são deixadas, para que o ar mais frio (mais pesado) entre por baixo, seja esquentadopelo sol batendo na cobertura, suba (o ar quente, mais leve, sobe) e possa escapar por aberturas superiores.
 
@@ -364,7 +378,7 @@ As telhas devem sempre ter um parafuso na primeira e última ondulação. A prim
 
 
 
-**Falta**: quantidade de telha de 305cm
+No total, usando telhas de 110cm, 40 telhas de comprimento mínimo de 280cm são necessárias.
 
 A linha inferior da telha superior deve formar uma linha horizontal com a linha superior da telha inferior, para evitar que chuvas com muito vento consigam entrar:
 
@@ -376,7 +390,9 @@ As telhas são afixadas com parafusos apropriados, com uma rodela de borracha de
 
 ![](imagens/58.jpg)
 
-**Falta**: descrição e quantidade de parafusos
+**Atenção**
+
+Os parafusos são de um tipo especial, e devem ser usadas com uma aruela metálica e duas rodelas de borracha (uma de cada lado).
 
 ### 3.3 Cumeira
 
@@ -392,11 +408,11 @@ A cumeira também deve respeitar as mesmas duas ondulações de sobreposição d
 
 
 
-**Falta**: Imagem geral
+![](imagens/99.jpg)
 
 ## 4. Marcenaria e caixilharia
 
-**Falta**: Imagem geral
+![](imagens/100.jpg)
 
 ### 4.1. Janelas e portas na alvenaria
 
@@ -470,7 +486,9 @@ As bordas dessa fachada, entre as placas cimentícias e a telha de polipropileno
 
 
 
-**Falta**: painéis interiores
+Por fim, 3 painéis de OSB de 1cm de espessura são parafusados do lado interior:
+
+![](imagens/101.jpg)
 
 #### 4.2.2 Fachada traseira
 
@@ -502,7 +520,7 @@ E o todo coberto com placas cimentícias da mesma maneira que a outra fachada:
 
 ![](imagens/81.jpg)
 
-3 painéis de OSB de 1cm são parafuusados aos caibros, do lado interior:
+3 painéis de OSB de 1cm são parafusados aos caibros, do lado interior:
 
 ![](imagens/83.jpg)
 
@@ -512,7 +530,9 @@ A fachada acabada:
 
 ![](imagens/82.jpg)
 
-**Falta**: Imagem geral
+O WikiLab está agora totalmente protegido da chuva.
+
+![](imagens/102.jpg)
 
 ## 5. Acabamentos
 
