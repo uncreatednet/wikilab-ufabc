@@ -2,9 +2,11 @@
 
 ## WikiLab
 
-
-
 Este manual de montagem segue o [manual original da MicroHouse](https://github.com/wikihouseproject/Microhouse/blob/master/MicroHouse_AssemblyManual_v1_sm.pdf) com acréscimo das partes que não são feitas com tecnologia WikiHouse, e algumas particularidades próprias ao projeto WikiLab.
+
+**Atenção**
+
+Este manual é uma tentativa de perimitir que um projeto de construção esteja entendido e possa ser construido por pessoas que não tem experiência prévia de construção. No entanto, certas partes, como a ferragem das lajes ou a instalação elétrica, necessitam cálculos especiais, e a construção pode ser perigosa (risco de acidentes). É muito recomendado nunca começar uma construção como esta sem o conselho e a ajuda de profissionais ou pessoas com boa experiência da construção.
 
 ![](imagens/88.jpg)
 
@@ -84,7 +86,7 @@ Apos esta operação, as valas devem ser reaterradas até o nível do solo.
 
 ![](imagens/93.jpg)
 
-Duas fileiras adicionais são colocadas em cima do bloco sanitário:
+Uma fileira adicional é colocada em cima do bloco sanitário:
 
 ![](imagens/04.jpg)
 
@@ -126,6 +128,8 @@ Depois se colocam 11 outras fileiras, para obter uma altura total de 12 fileiras
 
 ![](imagens/16.jpg)
 
+![](imagens/104.jpg)
+
 
 
 A forma da laje superior é feita com painéis de compensado suportados por escoras
@@ -166,7 +170,11 @@ Cancelado
 
 ### 1.5. Vigas-guia
 
-As vigas-guia são feitas de perfis de madeira maciça de 6cm x 8cm (ou mais). É muito importante cuidar para obter uma perfeita horizontalidade do conjunto.
+As vigas-guia são feitas de perfis de madeira maciça de 8cm x 8cm (ou mais). É muito importante cuidar para obter uma perfeita horizontalidade do conjunto.
+
+**Atenção**
+
+As vigas devem ser posicionadas com exatamente **390 cm** entre os eixos centrais de cada viga.
 
 ![](imagens/23.jpg)
 
