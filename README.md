@@ -4,7 +4,7 @@ Um laboratório experimental baseado no [wikihouse](http://wikihouse.cc/) e na [
 
 [English version here](english.md)
 
-![](render/0007.jpg)
+![](apresenta%C3%A7%C3%A3o/imagens/0016.jpg)
 
 Este projeto está em fase de desenvolvimento para ser construidono correr de 2017. O projeto está desenvolvida de forma aberta como parceria entre diferentes entidades incluindo o labLivre da UFABC e o [uncreated.net](http://www.uncreated.net)
 
@@ -19,8 +19,8 @@ Nas pastas deste projeto, podem ser encontrados:
 * Diversas pastas com elementos (texturas, modelos,etc) necessários à elaboraço do conteúdo acima
 * Um [arquivo .dxf](partes/cut%20sheet.dxf) que é uma amosta das folhas de cortes que sero geradas para fazer o cortes dos painéis  em máquinas CNC
 
-![](render/0012.jpg)
+![](apresenta%C3%A7%C3%A3o/imagens/0012.jpg)
 
 Veja também o [modelo no sketchfab](https://sketchfab.com/models/bab56ed7d2414e13b3eacd6c2f29ce65)
 
-![](render/0024.jpg)
+![](apresenta%C3%A7%C3%A3o/imagens/0024.jpg)
