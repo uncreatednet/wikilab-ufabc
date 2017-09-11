@@ -4,7 +4,7 @@ An experimental laboratory made with [wikihouse](http://wikihouse.cc/) technolog
 
 The laboratory will host both the [Free Software Laboratory](http://pesquisa.ufabc.edu.br/lablivre/) of UFABC and a [Makerspace](https://en.wikipedia.org/wiki/Hackerspace) used by the [hacker communities of the ABC region](http://www.facebook.com/abcmakerspace/) and form a link between the university, free software, local community and  hacking/making movements.
 
-![](render/0007.jpg)
+![](apresenta%C3%A7%C3%A3o/imagens/0007.jpg)
 
 *See also [a 3D version on Sketchfab](https://sketchfab.com/models/25cfcc0eaea24e3394ba76c1929d31ca)*
 
@@ -20,7 +20,7 @@ The project development is done in portuguese, using open-source software, namel
 
 The building will adopt a hybrid system, with a base made in concrete blocks, on top of which the wikihouse system will be built. Finally, it will be covered by a skin made of polypropylene, polycarbonate or fiber-cement panels.
 
-![](render/0012.jpg)
+![](apresenta%C3%A7%C3%A3o/imagens/0012.jpg)
 
 This hybrid system is an interesting idea to use in this case, for several reasons:
 
@@ -31,7 +31,7 @@ This hybrid system is an interesting idea to use in this case, for several reaso
 * If needed, further solutions to regulate the heat can be imagined when the building is functionning, such as sun breakers, or covering vegetation.
 * The hybrid building system is also an interesting social experiment, as one part of the construction will be executed by a contractor, while the other (the wikihouse part) will be built by a team of volunteers.  We hope to develop new ways of interaction between these two actors. This way, the wikihouse system can also be more easily understood not as a revolution against traditional building techniques, but rather as an evolution.
 
-![](render/0038.jpg)
+![](apresenta%C3%A7%C3%A3o/imagens/0038.jpg)
 
 ### Collaborative approach
 
