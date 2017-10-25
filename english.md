@@ -14,7 +14,7 @@ The project is now in development phase. The terrain will be donated by the univ
 
 All the project documents, files, images, plans, spreadsheets are [available online](https://github.com/uncreatednet/wikilab-ufabc), all the material that will be gathered further during the rest of the project phase and the construction itself will also be shared at the same location.
 
-The project development is done in portuguese, using open-source software, namely [FreeCAD](http//www.freecadweb.org), [Blender](http//www.blender.org), [libreOffice](http//www.libreoffice.org) and [inkscape](http://www.inkscape.org). In this project repository, you will find the project's 3D CAD file in [FreeCAD](wikilab.FCStd) and [Blender](wikilab.blend) formats, [renderings](render/) and other images, [presentation documents](folhas/) in PDF format, and [cost and schedule estimations](or%C3%A7amento.ods) in ODS format.
+The project development is done in portuguese, using open-source software, namely [FreeCAD](http//www.freecadweb.org), [Blender](http//www.blender.org), [libreOffice](http//www.libreoffice.org) and [inkscape](http://www.inkscape.org). In this project repository, you will find the project's 3D CAD file in [FreeCAD](wikilab.FCStd) and [Blender](wikilab.blend) formats, [renderings](apresenta%C3%A7%C3%A3o/imagens) and other images, [presentation documents](apresenta%C3%A7%C3%A3o/apresenta%C3%A7%C3%A3o%20inicial) in PDF format, and [cost and schedule estimations](or%C3%A7amento) in ODS format.
 
 ### The building system
 
