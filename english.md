@@ -1,5 +1,7 @@
 # wikilab
 
+![](fotos/obra/2017.11.29/IMG_20171129_113912.jpg)
+
 An experimental laboratory made with [wikihouse](http://wikihouse.cc/) technology, to be built on the [São Bernardo campus](https://www.google.com.br/maps/place/UFABC+-+Universidade+Federal+do+ABC+-+Campus+S%C3%A3o+Bernardo+do+Campo/@-23.6774308,-46.5664299,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce43a800827001:0xb566e18f4220a86b!8m2!3d-23.6774308!4d-46.5642412?hl=en) of the [UFABC](http://www.ufabc.edu.br/) university, in the São Paulo area, Brazil. It is based on the wikihouse [wren module](https://github.com/wikihouseproject/Wren/wiki/Wren-Technical-Design-Guide) and also reuses some of the solutions experimented by the [casa modelo](http://www.archdaily.com.br/br/773676/casa-revista-a-primeira-casa-fabricada-digitalmente-no-brasil) project made at [URFJ](https://ufrj.br/) in 2015.
 
 The laboratory will host both the [Free Software Laboratory](http://pesquisa.ufabc.edu.br/lablivre/) of UFABC and a [Makerspace](https://en.wikipedia.org/wiki/Hackerspace) used by the [hacker communities of the ABC region](http://www.facebook.com/abcmakerspace/) and form a link between the university, free software, local community and  hacking/making movements.
