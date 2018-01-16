@@ -4,6 +4,8 @@ Um laboratório experimental baseado no [wikihouse](http://wikihouse.cc/) e na [
 
 [English version here](english.md)
 
+![](fotos/obra/2017.11.29/IMG_20171129_113912.jpg)
+
 ![](apresenta%C3%A7%C3%A3o/imagens/0016.jpg)
 
 Este projeto está em fase de desenvolvimento para ser construidono correr de 2017. O projeto está desenvolvida de forma aberta como parceria entre diferentes entidades incluindo o labLivre da UFABC e o [uncreated.net](http://www.uncreated.net)
