@@ -1,12 +1,20 @@
-# Manual de montagem
+# WikiLab: Manual de montagem
 
-## WikiLab
+
+
+![](../fotos/obra/2017.11.29/IMG_20171129_113912.jpg)
+
+
 
 Este manual de montagem segue o [manual original da MicroHouse](https://github.com/wikihouseproject/Microhouse/blob/master/MicroHouse_AssemblyManual_v1_sm.pdf) com acréscimo das partes que não são feitas com tecnologia WikiHouse, e algumas particularidades próprias ao projeto WikiLab.
 
 **Atenção**
 
-Este manual é uma tentativa de perimitir que um projeto de construção esteja entendido e possa ser construido por pessoas que não tem experiência prévia de construção. No entanto, certas partes, como a ferragem das lajes ou a instalação elétrica, necessitam cálculos especiais, e a construção pode ser perigosa (risco de acidentes). É muito recomendado nunca começar uma construção como esta sem o conselho e a ajuda de profissionais ou pessoas com boa experiência da construção.
+Este manual é uma tentativa de perimitir que um projeto de construção esteja entendido e possa ser construido por pessoas que não tem experiência prévia de construção. No entanto, certas partes, como a ferragem das lajes ou a instalação elétrica, necessitam cálculos especiais, e a construção pode ser perigosa (risco de acidentes). É muito importante nunca começar uma construção como esta sem o conselho e a ajuda de profissionais ou pessoas com boa experiência da construção.
+
+A construção descrita abaixo é baseada no projeto do WikiLab que se encontra disponível para baixar, copiar e modificar [na plataforma Github](https://github.com/uncreatednet/wikilab-ufabc). as dimensões e especificações indicadas abaixo seguem esse projeto, e podem variar caso esse projeto seja adaptado ou modificado.
+
+Um relatório fotográfico completo da construção está também [disponível](https://github.com/uncreatednet/wikilab-ufabc/tree/master/fotos) na mesma plataforma.
 
 ![](imagens/88.jpg)
 
@@ -24,7 +32,7 @@ O perímetro de construção de 11.04m x 4.20m deve ser marcado no terreno com 4
 
 Escavação de uma vala para fundação corrida. Profundidade = 30cm, largura = 30cm. Área total da escavação = 8.68 m², volume de terra a ser retirado = 8.68 x 0.30 = 2.6 m³.
 
-O fundo da vala deve ser coberto de uma camada de 5cm de areia seca, e em seguida apiloado e compactado manualmente.
+O fundo da vala deve ser coberto de uma camada de 5cm de areia seca, e em seguida apiloado e compactado manualmente. É importante fazer a escavação em dias secos, para que a base sobre qual a mureta de alvenaria será construída fique rigorosamente seca. No caso contrário, podem ocorrer deformações da mureta no futuro.
 
 
 
@@ -32,17 +40,19 @@ O fundo da vala deve ser coberto de uma camada de 5cm de areia seca, e em seguid
 
 Após a colocação da camada de areia, o fundo da vala deve estar a 25 cm de profundidade.
 
-
+![](../fotos/obra/2017.09.05/IMG_20170905_121141.jpg)
 
 ### 1.2. Fundação em alvenaria
 
-Na base da vala é colocada uma camada de 5cm de concreto magro, que forma a base da fundação. Sobre esta camada é constuida uma mureta de duas fileiras de blocos de concreto de 19 x 19 x 39cm, aparelhados e grauteados com argamassa.
-
-**Falta**: Descrição e fabricação da argamassa
+Na base da vala é colocada uma camada de 5cm de concreto magro, que forma a base da fundação. Sobre esta camada é constuida uma mureta (alicerce) de duas fileiras de blocos de concreto de 19 x 19 x 39cm, aparelhados e grauteados com argamassa traço 1:4 (uma parte de cimento para quatro partes de areia)
 
 ![](imagens/03.jpg)
 
-**Falta**: Bloco canaleta na segunda fileira
+A segunda fileira de blocos deve ter seus furos preenchidos com argamassa. Para tanto, se enche primeiro a primeira fileira com terra oriunda da escavação. No final, se obtem uma mureta com a face superior bem lisa e horizontal. Sempre usar um nível para verificar a horizontalidade.
+
+![](../fotos/obra/2017.09.11/IMG_20170911_104229.jpg)
+
+
 
 ![](imagens/05.jpg)
 
@@ -58,7 +68,9 @@ A cada 3 blocos, é colocada uma barra de aço filetada em posição vertical. O
 
 ![](imagens/07.jpg)
 
-**Falta**: Descrição da filetagem
+**Opcional**
+
+Em vez das barras filetadas, podem ser usados chumbadores de aço inox para afixar as vigas-guia na alvenaria. É o sistema que acabamos usando no WikiLab.
 
 **Opcional**
 
@@ -114,9 +126,9 @@ No fundo da forma é colocada uma tela de aço de bitola 4.2mm com malha de 20cm
 
 Finalmente o concreto é colocado para formar uma laje de 9cm de espessura, até a borda superior das tábuas. Depois da concretagem, as formas de madeira devem permanecer por 3 dias, e a laje deve ser regada 3 vezes por dia, e coberta por uma lona para freiar a evaporação, durante 7 dias.
 
-![](imagens/14.jpg)
+Deve ser usado um concreto de traço 1:2:3 (uma parte de cimento, 2 partes de areia, 3 partes de pedra)
 
-**Falta**: Representar por símbolos a rega e a cura, e composição do concreto
+![](imagens/14.jpg)
 
 A partir de 24 horas após a concretagem, a primeira fileira de blocos já pode ser colocada. Devem ser preivistas barras de reforço de aço de 5mm de 50cm de comprimento em cima da primeria fileira.
 
@@ -164,13 +176,11 @@ A laje deve ser coberta por lona e regada 3 vezes por dia durante 7 dias. As tá
 
 ### 1.4. Hidráulica
 
-Cancelado
-
-**Falta**: Elaborar esta seção
+Esta parte não foi instalada no WikiLab por falta de infra-estutura (chegada de água fria e disponibilidade de conexão à rede de esgoto). No entanto, as esperas de tubulação descritas acima permitirão a fácil instalação de uma pia e de um vaso sanitário na construção quando essa infra-estrutura ficar disponível
 
 ### 1.5. Vigas-guia
 
-As vigas-guia são feitas de perfis de madeira maciça de 8cm x 8cm (ou mais). É muito importante cuidar para obter uma perfeita horizontalidade do conjunto.
+As vigas-guia são feitas de perfis de madeira maciça de 6cm x 8cm (ou mais). É muito importante cuidar para obter uma perfeita horizontalidade do conjunto.
 
 **Atenção**
 
@@ -178,9 +188,13 @@ As vigas devem ser posicionadas com exatamente **390 cm** entre os eixos centrai
 
 ![](imagens/23.jpg)
 
-**Falta**: mostrar com símbolos métodos para verificar a horizontalidade
+**Importante** 
 
-As vigas-guias são fixadas com rodelas e porcas compatíveis com o diâmetro das barras filetadas
+Sempre verificar a horizontalidade n o momento de colocar as vigas, usando um nível. É muito importante obter uma base rigorosamente horizontal, pois pequenos desníveis vão criar deformações na estrutura de madeira acima, que vão dificultar muito a colocação dos painéis depois.
+
+
+
+As vigas-guias são fixadas com rodelas e porcas compatíveis com o diâmetro das barras filetadas. Elas devem ficar na posição vertical, para que a altura da viga seja superior a 6cm, para que a construção de madeira que ficará apoiada em cima não entre em contato com a alvenaria.
 
 ![](imagens/24.jpg)
 
@@ -188,13 +202,31 @@ As vigas-guias são fixadas com rodelas e porcas compatíveis com o diâmetro da
 
 ## 2. WikiHouse
 
-Esta parte é prevista para ser construída por voluntários. Atenção, uma obra é um entorno perigoso. Verifique que todas as pessoas presentes na obra usem equipamento de segurnaça (capacete, luvas, sapatos fechados, óculos de proteção, e colete sinalizador se for trabalhar onde veículos transitam).
+Esta parte é prevista para ser construída por voluntários. É recomendado contar com uma equipe de 12 a 15 pessoas.
 
-**Falta**: Descrição EPI
+**Atenção**
+
+Uma obra é um entorno perigoso. Verifique que todas as pessoas presentes na obra usem sempre equipamento de segurança (capacete de obra, luvas resistentes a frição, sapatos fechados, óculos de proteção, e colete sinalizador se for trabalhar onde veículos transitam). É importante que hajam sempre pessoas designadas para cuidar da segurança de todos.
+
+
 
 ![](imagens/94.jpg)
 
-**Falta**: Descrição equipamento/material necessário
+**Equipamento necessário**
+
+A construção de um WikiHouse a princípio necessita pouco material e ferramentas. Mas a facilidade e conforto do trabalho dependerão muito da disponibilidade de alguns equipamentos como escadas e andaimes. Recomendamos:
+
+* Um martelo de borracha médio (>= 400g) para cada participante
+* 3 ou 4 limas para retirar as rebarbas e alargar encaixes difíceis
+* 3 ou 4 chaves de fenda grandes para ajudar o encaixe
+* Duas parafusadeiras elétricas
+* Uma escada grande que possa alcançar o topo (>= 4.5m)
+* No mínimo 2 andaimes de 2m x 2m x 2m. A quantidade de andaimes tem impacto direto sobre a facilidade de montagem. É recomendado alugar andaimes durante a construção toda (2 a 3 semanas)
+* Lonas grandes e resistentes (10m x 8m) com ainéis de fixação para poder proteger a construção da chuva
+* Cordas para amarrar a lona
+* Canivetes, canetas, fita adesiva industrial
+
+
 
 ### 2.1. Estrutura principal da wikihouse
 
@@ -240,7 +272,15 @@ São 8 elementos como este. Se não vão ser usado imediatamente, podem ser arma
 
 ![](imagens/96.jpg)
 
-**Falta**: Verniz nas partes de baixo
+
+
+![](../fotos/obra/2017.09.14/IMG_20170914_144352.jpg)
+
+
+
+**Importante**
+
+Antes de afixar a estrutura sobre as vigas-guia, uma camada de verniz deve ser passada nas vigas-guia, para evitar possibilidade da umidade subir e atingir a estrutura.
 
 ### 2.2. Colocaço e fixaço da estrutura
 
@@ -267,6 +307,12 @@ Este novo elemento também é fixado às vigas-guia por cantoneiras metálicas:
 O mesmo procedimento de repete até instalar os 8 elementos:
 
 ![](imagens/37.jpg)
+
+
+
+![](../fotos/obra/2017.09.15/21731400_10154816784340913_1048195015997782170_o.jpg)
+
+
 
 O último elemento coincide exatamente com o fim da viga-guia:
 
@@ -302,6 +348,10 @@ Os painéis exteriores são colocados primeiros:
 
 Em seguida, os painéis do fundo do piso. Esses painéis devem idealmente ser envernizados ou pintados, ou ser feitos com compensado resistente a umidade, antes da montagem. Esses painéis são colocados por dentro, simplesmente apoiados em cima dos "skis":
 
+**Atenção**
+
+Se a parte elétrica for colocada dentro das paredes ou abaixo do piso, essa parte deverá ser pronta agora, uma vez que não estaŕa mais acesível após os painéis de piso e paredes terem sido colocados.
+
 ![](imagens/42.jpg)
 
 Finalmente os painéis interiores são colocados:
@@ -322,13 +372,15 @@ Para aumentar a resistência do conjunto, todas as peças interiores e exteriore
 
 Devem ser usados mínimo 4 parafusos para as peças pequenas (L46, L48, L61), e 8 parafusos para as peças grandes (L45, L47, L62, L63, L64, W1, W3). São um pouco menos de 100 parafusos por módulos.
 
-Novamente, se a operação posterior não vai ser feita imediatamente, é indispensável proteger esta estrutura da chuva, por exemplo com lona plástica.
+Novamente, se a operação posterior não vai ser feita imediatamente, é indispensável proteger esta estrutura da chuva, por exemplo com lona plástica
 
-**Falta**: Imagem lona
+![](../fotos/obra/2017.10.03/IMG_20171003_132916.jpg)
 
 ![](imagens/103.jpg)
 
-**Falta** Verniz anti chamas
+**Opcional** 
+
+Para aumentar a resistência ao fogo da construção, é recomendado passar um verniz anti-chamas na parte interior da construção. Seguir as instruções fornecidas com o verniz.
 
 ## 3. Cobertura
 
@@ -361,6 +413,18 @@ No topo, duas ripas de 3x6cm são parafusadas a última fileira de ripas horizon
 ![](imagens/50.jpg)
 
 ![](imagens/51.jpg)
+
+
+
+**Opcional**
+
+Em vez das ripas de suporte da cumeira, a mesma pode ser afixada diretamente na telha, usando calços de plásticos para manter o espaçamento entre a telha e a cumeira.
+
+
+
+![](../fotos/obra/2017.09.29/IMG_20170929_143533.jpg)
+
+
 
 ### 3.2. Colocaço das telhas
 
@@ -402,6 +466,12 @@ As telhas são afixadas com parafusos apropriados, com uma rodela de borracha de
 
 Os parafusos são de um tipo especial, e devem ser usadas com uma aruela metálica e duas rodelas de borracha (uma de cada lado).
 
+
+
+![](../fotos/obra/2017.10.06/IMG_20171006_150315.jpg)
+
+
+
 ### 3.3 Cumeira
 
 A cumeira pode ser de outro material caso não se encontre cumeira com o mesmo aspecto que as telhas. O tamanho da onda não precisa ser igual, já que a cumeira não vai encostar nas telhas.
@@ -414,7 +484,11 @@ A cumeira também deve respeitar as mesmas duas ondulações de sobreposição d
 
 ![](imagens/60.jpg)
 
+**Opcional**
 
+Pode também ser usada uma chapa metálica glavanizada dobrada como cumeira. Essa chapa pode ser parafusada diretamene nas ripas que suportam as telhas, usando calços de plástico para manter o espaçamento entre a chapa galvanizada. As chapas devem ser previamente furadas onde serão colocados os parafusos.
+
+![](../fotos/obra/2017.10.10/IMG_20171010_105123.jpg)
 
 ![](imagens/99.jpg)
 
@@ -480,6 +554,12 @@ O lado exterior é coberto com placas cimentícias parafusadas nos caibros:
 
 ![](imagens/73.jpg)
 
+**Opcional**
+
+Em vez de placas cimentícias, podem ser usadas também chapas de polcarbonato. No WikiLab, por economia e rapidez de instalação, usamos chapas de policarbonato de 4mm de espessura para toda a parte de placas cimentícias e também a parte de vidro fixo superior.
+
+![](../fotos/obra/2017.11.10/IMG_20171110_173639.jpg)
+
 A junção entre as placas cimentícias, e entre as placas cimentícias e as partes aparentes dos caibros e caixilhos, deve ser vedada com silicone, de maneira a formar uma fachada inteiramente impermeável.
 
 ![](imagens/74.jpg)
@@ -491,6 +571,10 @@ As bordas dessa fachada, entre as placas cimentícias e a telha de polipropileno
 
 
 ![](imagens/75.jpg)
+
+
+
+![](../fotos/obra/2017.11.29/IMG_20171129_113843.jpg)
 
 
 
@@ -544,13 +628,33 @@ O WikiLab está agora totalmente protegido da chuva.
 
 ## 5. Acabamentos
 
-Item cancelado
+Neste ponto a construção já está pronta para ser usada. No entanto, é recomendado acrescentar alguma proteção adicional como um revestimento de piso (por exemplo, piso emborrachado, EVA, piso vinílico, ou um revestimento para pisos de madeira como Cascolac ou  Bona). 
+
+As paredes exteriores não necessitam proteção adicional, mas as paredes interiores podem ser coberta com pintura, verniz, ou verniz especial anti-chamas para aumentar a resistência ao fogo. 
+
+As alvenarias exteriores também não precisam de revestimento adicional, mas podem ser cobertas com chapisco ou nata de cimento, e/ou pintura.
 
 ### 5.1. Rampa
 
-**Falta**
+Para garantir a acessibilidade da construção a pessoas com mobilidade reduzida e/ou com cadeira de rodas, é necessário a construção de uma rampa na frente à porta de entrada. A rampa deve ter no máximo 5% de inclinação (isso é, uma rampa de 6m de comprimento), e dispor de um patamar plano de 110cm no mínimo, para que uma pessoa usando uma cadeira de rodas possa girá-la.
+
+A rampa pode ser feita de várias maneiras, a mais fácil sendo construindo uma mureta de alvenaria na borda, e enchendo com argamassa para formar o piso da rampa.
 
 ## 6. Eletricidade
 
-**Falta**
+![](../fotos/obra/2017.11.10/IMG_20171110_121114.jpg)
+
+A parte elétrica da construção depende muito do uso que se faz do espaço. É recomendado sempre procurar um engenheiro ou eletricista para fazer um projeto adequado e calcular a carga elétrica a ser fornecida, o tamanho e comprimento dos cabos necessários, e o diagrama do quadro elétrico.
+
+As instalações elétricas (condutos para fiação, tomadas, interruptores, pontos de luz) podem ser aparentes, afixados após o fim da construção, o que simplifica a mesma. Neste caso, devem ser usados condutores e caixas apropriadas (de PVC ou aço), ou instaladas dentro do vão entre os painéis interiores e exteriores. Neste caso, tuda a fiação deve ser instalada antes da colocação das paredes e pisos internos, o que complexifia muito a obra. Neste caso, é recomendado estabelecer um projeto elétrico completo antes do início da obra, e incluir furos a serem cortados nos painéis e estruturas já na fase de projeto, na preparação das chapas para que esses furos sejam cortados pela mesma máquina que fará o corte das peças.
+
+No WikiLab, foram colocadas uma tomada no pé de cada placa interior (excluindo as janelas), e 6 lâmpadas LED no topo das paredes (3 de cada lado), comandadas por um interruptor colocado do lado da porta de entrada. Eletrodutos flexíveis foram colocados sob o piso e dentro das paredes, já com toda a fiação apropriada, antes do fechamento das mesmas.
+
+![](../fotos/obra/2017.11.08/IMG_20171108_163954.jpg)
+
+Após o fechamento das paredes, tomadas, lâmpadas e interruptores foram parafusados diretamente na madeira.
+
+Finalmente, um quadro geral é instalado na parte de alvenaria, alimenta dois circuitos, um para as tomadas e um para a iluminação. 
+
+![](../fotos/obra/2017.11.29/IMG_20171129_092157.jpg)
 
