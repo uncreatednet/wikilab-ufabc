@@ -116,4 +116,4 @@ Pode ser necessário a retirada da porta para retirar a peça existente e por a 
 * A fechadura da porta está danificada. Deveria ser trocada em algum momento
 * O calor forte dentro do WikiLab tem duas causas principais: 1) A ventilação insuficiente (foram instaladas janelas menores do que as previstas inicialmente), e 2) A exposição muito grande da fachada da frente aos raiso do sol. O ponto 1) não pode ser melhorado muito facilmente, a não ser estudando uma maneira de fazer aberturas temporárias nas placas de policarbonato), mas o ponto 2) poderia ser resolvido de uma maneira bastante fácil e agradável instalando cabos metálicos e deixando plantas trepadeiras subir neles. Isso, obviamente, ia requerer uma manutenção cuidadosa para evitar que as plantas penetrem dentro do WikiLab:
 
-![IMG_20190315_171323](../../../Dropbox/Works/wikilab UFABC/fotos/relatorio-2019.03.15/IMG_20190315_171323.jpg)
+![IMG_20190315_171323](../fotos/relatorio-2019.03.15/IMG_20190315_171323.jpg)
