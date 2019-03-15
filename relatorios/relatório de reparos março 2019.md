@@ -89,7 +89,7 @@ Deve ser afixado o pedaço de policarbonato "solto" na laje, usando parafusos co
 
 Deve ser comprado um elemento adicional de cumeira em chapa de aço galvanizado (a espessura não tem muita importância), fabricado especialmente por uma funilaria com as dimensões abaixo. Se trata de um elemento simples e relativemente barato:
 
-![reparo 4](../fotos/relatorio-2019.03.15/reparo 4.jpg)
+![reparo 4](../fotos/relatorio-2019.03.15/reparo%204.jpg)
 
 Este elemento deve ser furado na hora de instalar (min. 4 furos), e parafusado no lugar do elemento antigo, que deve ser removido (e guardado para reuso futuro). Os parafusos existentes podem ser reaproveitados aqui.
 
@@ -105,7 +105,7 @@ A soleira da entrada está danificando rapidamente. Pode ser trocada por uma pe�
 
 Pode ser necessário a retirada da porta para retirar a peça existente e por a soleira nova
 
-![reparo 5](../fotos/relatorio-2019.03.15/reparo 5.jpg)
+![reparo 5](../fotos/relatorio-2019.03.15/reparo%205.jpg)
 
 
 
