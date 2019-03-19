@@ -42,7 +42,7 @@ As partes de madeira já danificadas não podem ser restauradas, e vão continua
 
 Propomos os reparos seguintes. Os pontos 1,2 e 3 são os mais urgentes:
 
-#### 1. Vedar as juntas entre as placas de policarbonato, e entre as placas e os caixilhos metálicos, com silicone
+#### 1,2,3,5,6,7:Vedar as juntas entre as placas de policarbonato, e entre as placas e os caixilhos metálicos, com silicone
 
 Todas as bordas das janelas (exceto as bordas superiores, onde a água não consegue entrar), devem ser cobertas e vedadas com silicone, de maneira a formar uma superfície completamente impermeável entre os caixilhos metálicos e o policarbonato. Onde existe um espaço muito grande para ser coberto, pode ser pregado uma tira de policarbonato, para diminuir a quantidade de silicone a ser usado.
 
@@ -61,7 +61,7 @@ Exemplo:
 
 
 
-#### 2. Cobrir as partes de madeira expostas no pé da fachada traseira
+#### 6,7: obrir as partes de madeira expostas no pé da fachada traseira
 
 Mesma técnica que o ponto acima, vedar todo com silicone depois. Do lado direito, essa placa fica em contato com o solo, o que deve ser evitado também. Sugerimos cavar alguns centímetros para baixar o nível do terreno ao redor desse pedaço de madeira
 
@@ -69,7 +69,7 @@ Mesma técnica que o ponto acima, vedar todo com silicone depois. Do lado direit
 
 
 
-#### 3. Vedação acima da laje
+#### 5:Vedação acima da laje
 
 Deve ser afixado o pedaço de policarbonato "solto" na laje, usando parafusos com buchas, e vedado com silicone depois:
 
@@ -85,7 +85,7 @@ Deve ser afixado o pedaço de policarbonato "solto" na laje, usando parafusos co
 
 
 
-#### 4. Troca de um elemento de cumeira
+#### 4: Troca de um elemento de cumeira
 
 Deve ser comprado um elemento adicional de cumeira em chapa de aço galvanizado (a espessura não tem muita importância), fabricado especialmente por uma funilaria com as dimensões abaixo. Se trata de um elemento simples e relativemente barato:
 
@@ -99,7 +99,7 @@ Este elemento deve ser furado na hora de instalar (min. 4 furos), e parafusado n
 
 
 
-#### 5. Troca da soleira da porta de entrada
+#### 1: Troca da soleira da porta de entrada
 
 A soleira da entrada está danificando rapidamente. Pode ser trocada por uma peça de madeira boa (cumaru, cedor, mogno) que não vai danificar muito rapidamente e resistir por vários anos. Tamanho estimado (medir no local antes de encomendar/comprar): 85cm x 6cm x 3cm
 
